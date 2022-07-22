@@ -1,0 +1,190 @@
+# Start of script
+# I am going to keep trying on this until I get it right
+# @seanwallawalla is the global code owner for this project
+/// @seanwallawalla
+// @seanwallawalla
+# / @seanwallawalla
+/* @seanwallawalla
+* @seanwallawalla
+# Directories at root
+# .github
+/.github/ @seanwallawalla
+# Docs
+/Docs/ @seanwallawalla
+# External
+/External/ @seanwallawalla
+# OldVersions
+/OldVersions/ @seanwallawalla
+# RepoData
+/RepoData/ @seanwallawalla
+# Files at root
+.editorconfig @seanwallawalla
+.gitattributes @seanwallawalla
+.gitignore @seanwallawalla
+AUTHORS @seanwallawalla
+CITATION.cff @seanwallawalla
+CONTRIBUTING.md @seanwallawalla
+COPYINGL @seanwallawalla
+CREDITS @seanwallawalla
+DRM-free_label.en.svg @seanwallawalla
+INSTALL @seanwallawalla
+LICENSE.txt @seanwallawalla
+README.md @seanwallawalla
+SECURITY.md @seanwallawalla
+SponsorButton.png @seanwallawalla
+desktop.ini @seanwallawalla
+makefile.mk @seanwallawalla
+# Individual file types
+# Section A
+*.aiff @seanwallawalla
+*.AIFF @seanwallawalla
+*.alac @seanwallawalla
+*.ALAC @seanwallawalla
+*.applescript @seanwallawalla
+*.asm @seanwallawalla
+*.ASM @seanwallawalla
+# Section B
+*.bib @seanwallawalla
+# Section C
+*.c @seanwallawalla
+*.C @seanwallawalla
+*.cff @seanwallawalla
+*.cpp @seanwallawalla
+*.css @seanwallawalla
+*.cxx @seanwallawalla
+# Section D
+*.DS_STORE @seanwallawalla
+*.desktop @seanwallawalla
+*.dmg @seanwallawalla
+*.DMG @seanwallawalla
+# Section E
+*.editorconfig @seanwallawalla
+# Section F
+# No entries starting with the letter F
+# Section G
+*.gif @seanwallawalla
+*.GIF @seanwallawalla
+*.gitattributes @seanwallawalla
+*.gitignore @seanwallawalla
+*.go @seanwallawalla
+# Section H
+*.h @seanwallawalla
+*.H @seanwallawalla
+*.htm @seanwallawalla
+*.html @seanwallawalla
+# Section I
+*.ini @seanwallawalla
+*.ipa @seanwallawalla
+*.IPA @seanwallawalla
+*.iso @seanwallawalla
+*.ISO @seanwallawalla
+# Section J
+*.java @seanwallawalla
+*.js @seanwallawalla
+*.jpg @seanwallawalla
+*.jpeg @seanwallawalla
+*.jpp @seanwallawalla
+*.json @seanwallawalla
+*.jspp @seanwallawalla
+# Section K
+# No entries starting with the letter K
+# Section L
+# No entries starting with the letter L
+# Section M
+*.m @seanwallawalla
+*.m4 @seanwallawalla
+*.mm @seanwallawalla
+*.mak @seanwallawalla
+*.make @seanwallawalla
+*.markdown @seanwallawalla
+*.md @seanwallawalla
+*.mdown @seanwallawalla
+*.metal @seanwallawalla
+*.mhtm @seanwallawalla
+*.mhtml @seanwallawalla
+*.mp3 @seanwallawalla
+*.mk @seanwallawalla
+*.mkd @seanwallawalla
+*.mot @seanwallawalla
+*.MOT @seanwallawalla
+*.mov @seanwallawalla
+*.MOV @seanwallawalla
+# Section N
+# No entries starting with the letter N
+# Section O
+*.oga @seanwallawalla
+*.ogg @seanwallawalla
+# Section P
+*.p @seanwallawalla
+*.P @seanwallawalla
+*.pas @seanwallawalla
+*.PAS @seanwallawalla
+*.php @seanwallawalla
+*.png @seanwallawalla
+*.PNG @seanwallawalla
+*.pl @seanwallawalla
+*.pro @seanwallawalla
+*.ps @seanwallawalla
+*.PS @seanwallawalla
+*.py @seanwallawalla
+# Section Q
+*.qs @seanwallawalla
+*.qt @seanwallawalla
+# Section R
+*.rb @seanwallawalla
+*.rs @seanwallawalla
+# Section S
+*.self @seanwallawalla
+*.sh @seanwallawalla
+*.st @seanwallawalla
+*.sql @seanwallawalla
+*.svg @seanwallawalla
+*.swift @seanwallawalla
+# Section T
+*.tex @seanwallawalla
+*.ts @seanwallawalla
+*.tsx @seanwallawalla
+*.ttf @seanwallawalla
+*.TTF @seanwallawalla
+*.txt @seanwallawalla
+*.TXT @seanwallawalla
+# Section U
+*.url @seanwallawalla
+*.URL @seanwallawalla
+# Section V
+*.v @seanwallawalla
+*.vh @seanwallawalla
+*.vhd @seanwallawalla
+*.vhdl @seanwallawalla
+*.vtt @seanwallawalla
+# Setion W
+*.wim @seanwallawalla
+*.woff @seanwallawalla
+*.WOFF @seanwallawalla
+# Section X
+*.xhtm @seanwallawalla
+*.xhtml @seanwallawalla
+*.xml @seanwallawalla
+# Section Y
+*.yaml @seanwallawalla
+*.yml @seanwallawalla
+# Section Z
+# No entries starting with the letter Z
+
+# No more individual file types for now
+
+# Todo
+
+# Add every individual file
+# Finish adding all file types
+# Add new entries as they are added
+
+# Past goals (completed)
+# Add all Wiki entries
+# Add all graphics entries
+
+# File info
+# File type: codeowners file (CODEOWNERS)
+# File version: 1 (2022, Friday, July 22nd at 2:38 pm PST)
+# Line count (including blank lines and compiler line): 191
+# End of script
