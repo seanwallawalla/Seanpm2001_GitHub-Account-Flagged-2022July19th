@@ -18,11 +18,15 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 3:10 pm PST on 2022 July 22nd, I have received no response.
 
-<details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message)</b></p></summary>
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
 ![/Seanpm2001_Flagged/2022/July19th/AppealMessage/2022.07.19/Redacted/PNG/Appeal1_Redacted.png](/Seanpm2001_Flagged/2022/July19th/AppealMessage/2022.07.19/Redacted/PNG/Appeal1_Redacted.png)
 
 </details>
+
+On 2022 July 22nd, I sent another appeal message, as the previous email I used was incorrect. I won't put the image here, as it is pretty much the same, but here is the message sent image:
+
+![/Seanpm2001_Flagged/2022/July19th/AppealSent/AppealSent_LightMode_1080p.png](/Seanpm2001_Flagged/2022/July19th/AppealSent/AppealSent_LightMode_1080p.png)
 
 | Date | Flagged? |
 |---|---|
@@ -30,6 +34,7 @@ On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main ac
 | 2022, Wednesday, July 20th | :heavy_check_mark: |
 | 2022, Thursday, July 21st | :heavy_check_mark: |
 | 2022, Friday, July 22nd | :heavy_check_mark: |
+| 2022, Saturday, July 23rd | :heavy_check_mark: |
 
 ## Usage of alt account
 
@@ -73,6 +78,18 @@ Upon going to any of my issues or pull requests, I noticed that a label `Spammy`
 
 GitHub customer support has been exceedingly poor. The contact form is taking a very long time, I am not being told why I was flagged, I can't email GitHub (they just blocked my email address when I tried) the forum appears to be moving to GitHub discussions (which will just make it impossible for people with this problem to reach out) and I have not been able to interact with an actual person (not even a bot)
 
+## Negative impact
+
+The flag has had a highly negative impact on my life and my future. Several opportunities have been missed, and most of my work is now hidden, with other unofficial reproductions now being the only source, most of them are incomplete and infringing.
+
+Thousands of projects have been affected by this. Additionally, contributions to other repositories are now no longer crediting me, and I have missed out on a lot of people discovering my projects.
+
+## Inability to use third party programs
+
+I tried to migrate to GitLab in the meantime, and GitHub finally gave me the reason why my account was flagged:
+
+![/Seanpm2001_Flagged/2022/July19th/No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png](/Seanpm2001_Flagged/2022/July19th//No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png)
+
 ## Sources
 
 ### Other people dealing with the same problem
@@ -107,9 +124,9 @@ GitHub customer support has been exceedingly poor. The contact form is taking a 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022, Friday, July 22nd at 3:10 pm PST)`
+**File version:** `4 (2022, Saturday, July 23rd at 4:46 pm PST)`
 
-**Line count (including blank lines and compiler line):** `188`
+**Line count (including blank lines and compiler line):** `247`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -179,6 +196,48 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 3 (2022, Friday, July 22nd at 3:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Referenced several image files
+- [x] Updated the `context` section
+- [x] Updated the `usage of alt account` section
+- - [x] Added the `Alt account discovery` subsection
+- [x] Updated the `stress` section
+- [x] Added the `odd restrictions` section
+- [x] Updated the `GitHub customer support` section
+- [x] Added the `spammy` section
+- [x] Updated the `sources` section
+- - [x] Added the `Other people dealing with the same problem` subsection
+- - [x] Added the `related problems` subsection
+- - [x] Added the `forum is moving` subsection
+- - [x] Added the `contact link` subsection
+- - [x] Added the `GitHub email address (bot)` subsection
+- [x] Added the `file info` section
+- [x] Added the `file history` section
+- [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2022, Saturday, July 23rd at 4:46 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Referenced some new image files
+- [x] Updated the `context` section
+- [x] Added the `Negative impact` section
+- [x] Added the `Inability to use third party programs` section
+- [x] Added the `file info` section
+- [x] Added the `file history` section
+- [ ] No other changes in version 4
 
 </details>
 
