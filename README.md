@@ -60,6 +60,8 @@ I have been under significant stress during this time period. Things are being d
 |---|---|
 | ![Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png) | ![/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png) |
 
+It has been extremely stressful for me. On 2022 July 22nd, I reached a bad milestone: I had never been so stressed in my life until that day, and my morale was the lowest it had ever been.
+
 ## Odd restrictions
 
 I am restricted from searching repository source code by language while logged in, but if I log out/go into private browsing mode, it works just fine.
@@ -89,6 +91,10 @@ Thousands of projects have been affected by this. Additionally, contributions to
 I tried to migrate to GitLab in the meantime, and GitHub finally gave me the reason why my account was flagged:
 
 ![/Seanpm2001_Flagged/2022/July19th/No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png](/Seanpm2001_Flagged/2022/July19th//No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png)
+
+## Attempting to continue normally
+
+Despite the account not being visible publicly, and several things being broken, I have continued to work somewhat normally. I can't let it derail all my progress. During the first 3 days of the flag, I did image file uploads in full, but as of 2022 July 22nd, I have finally made the decision to stop Git-image part A work, but still do Git-image part B work. I have also been rethinking how I will operate after this is over.
 
 ## Sources
 
@@ -124,9 +130,9 @@ I tried to migrate to GitLab in the meantime, and GitHub finally gave me the rea
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022, Saturday, July 23rd at 4:46 pm PST)`
+**File version:** `5 (2022, Saturday, July 23rd at 9:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `247`
+**Line count (including blank lines and compiler line):** `268`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -235,9 +241,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `context` section
 - [x] Added the `Negative impact` section
 - [x] Added the `Inability to use third party programs` section
-- [x] Added the `file info` section
-- [x] Added the `file history` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
 - [ ] No other changes in version 4
+
+</details>
+
+<details><summary><p lang="en"><b>Version 5 (2022, Saturday, July 23rd at 9:00 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Referenced some new image files
+- [x] Updated the `stress` section
+- [x] Added the `Attempting to continue normally` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 5
 
 </details>
 
