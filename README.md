@@ -16,7 +16,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 3:10 pm PST on 2022 July 22nd, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 4:40 pm PST on 2022 July 24th, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -26,19 +26,48 @@ On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main ac
 
 On 2022 July 22nd, I sent another appeal message, as the previous email I used was incorrect. I won't put the image here, as it is pretty much the same, but here is the message sent image:
 
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (message sent response)</b></p></summary>
+
 ![/Seanpm2001_Flagged/2022/July19th/AppealSent/AppealSent_LightMode_1080p.png](/Seanpm2001_Flagged/2022/July19th/AppealSent/AppealSent_LightMode_1080p.png)
+
+</details>
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table</b></p></summary>
 
 | Date | Flagged? |
 |---|---|
+| 2022, Friday, July 1st | :x: |
+| 2022, Saturday, July 2nd | :x: |
+| 2022, Sunday, July 3rd | :x: |
+| 2022, Monday, July 4th | :x: |
+| 2022, Tuesday, July 5th | :x: |
+| 2022, Wednesday, July 6th | :x: |
+| 2022, Thursday, July 7th | :x: |
+| 2022, Friday, July 8th | :x: |
+| 2022, Saturday, July 9th | :x: |
+| 2022, Sunday, July 10th | :x: |
+| 2022, Monday, July 11th | :x: |
+| 2022, Tuesday, July 12th | :x: |
+| 2022, Wednesday, July 13th | :x: |
+| 2022, Thursday, July 14th | :x: |
+| 2022, Friday, July 15th | :x: |
+| 2022, Saturday, July 16th | :x: |
+| 2022, Sunday, July 17th | :x: |
+| 2022, Monday, July 18th | :x: |
 | 2022, Tuesday, July 19th | :heavy_check_mark: |
 | 2022, Wednesday, July 20th | :heavy_check_mark: |
 | 2022, Thursday, July 21st | :heavy_check_mark: |
 | 2022, Friday, July 22nd | :heavy_check_mark: |
 | 2022, Saturday, July 23rd | :heavy_check_mark: |
+| 2022, Sunday, July 24th | :heavy_check_mark: |
+
+</details>
 
 ## Usage of alt account
 
 I was advised to make a message via my alt account. I have been hesitant to do so, as I fear it could get unfairly blocked as well. I am not attempting to circumvent the block, I just needed to message my followers what has happened.
+
+I have plans for after my main account is unflagged, to fork important projects from my main account to my alt account, so that people won't lose all access when this happens. I have already started doing common forks from my alt account, but the main part requires my main account to be up and running first.
 
 ### Alt account discovery
 
@@ -130,9 +159,9 @@ Despite the account not being visible publicly, and several things being broken,
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022, Saturday, July 23rd at 9:00 pm PST)`
+**File version:** `6 (2022, Sunday, July 24th at 4:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `268`
+**Line count (including blank lines and compiler line):** `311`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -259,6 +288,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2022, Sunday, July 24th at 4:40 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `usage of alt account` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 6
 
 </details>
 
