@@ -54,12 +54,19 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Saturday, July 16th | :x: |
 | 2022, Sunday, July 17th | :x: |
 | 2022, Monday, July 18th | :x: |
-| 2022, Tuesday, July 19th | :heavy_check_mark: |
-| 2022, Wednesday, July 20th | :heavy_check_mark: |
-| 2022, Thursday, July 21st | :heavy_check_mark: |
-| 2022, Friday, July 22nd | :heavy_check_mark: |
-| 2022, Saturday, July 23rd | :heavy_check_mark: |
-| 2022, Sunday, July 24th | :heavy_check_mark: |
+| 2022, Tuesday, July 19th (1) | :heavy_check_mark: |
+| 2022, Wednesday, July 20th (2) | :heavy_check_mark: |
+| 2022, Thursday, July 21st (3) | :heavy_check_mark: |
+| 2022, Friday, July 22nd (4) | :heavy_check_mark: |
+| 2022, Saturday, July 23rd (5) | :heavy_check_mark: |
+| 2022, Sunday, July 24th (6) | :heavy_check_mark: |
+| 2022, Monday, July 25th (7) | :heavy_check_mark: |
+| 2022, Tuesday, July 26th | TBD |
+| 2022, Wednesday, July 27th | TBD |
+| 2022, Thursday, July 28th | TBD |
+| 2022, Friday, July 29th | TBD |
+| 2022, Saturday, July 30th | TBD |
+| 2022, Sunday, July 31st | TBD |
 
 </details>
 
@@ -125,6 +132,42 @@ I tried to migrate to GitLab in the meantime, and GitHub finally gave me the rea
 
 Despite the account not being visible publicly, and several things being broken, I have continued to work somewhat normally. I can't let it derail all my progress. During the first 3 days of the flag, I did image file uploads in full, but as of 2022 July 22nd, I have finally made the decision to stop Git-image part A work, but still do Git-image part B work. I have also been rethinking how I will operate after this is over.
 
+## What I would do differently
+
+I have learned a lot about what not to do when flagging/blocking/suspending a user from a platform, and I came up with some guidelines last night (2022, Sunday, July 24th, draft V2):
+
+### Running an online service
+
+#### Avoiding GitHubs 2022 July 19th mistake
+
+##### Basic guidelines
+
+1. If a user is flagged/blocked/suspended, they will still be able to access all content in their account (same as GitHub)
+
+2. A user will be reviewed by a machine first. They will not be blocked yet. A human will then review
+
+3. If/when a problem is detected, a detailed error log will be given
+
+> 1. The error log will have 2 formats: simple and advanced. The simple view will tell of the general problem (with more context than GitHub) and the advanced view will tell you of each individual problem, and how to fix it (along with an auto-fix icon, a button to download the log with a dropdown for simple.<date>.log, advanced.<date>.log, and all.<date>.log, and a button for sending an appeal)
+
+4. If no response is given from the appeal within 12 hours, the user will automatically be unblocked, their content will be publicly reinstated, and the user will be granted immunity for a set amount of time.
+
+5. Logs will be kept privately by default, and the user has the choice to cite it if needed for their followers
+
+6. There will always be a forum that doesn't require an account to be unsuspended to use (even an account terminated from the service can still use the forum, albeit with some limitations that won't prevent them from reporting their problem)
+
+7. There will be a strong user voice, where the user can make their voice heard
+
+##### Additional notes
+
+These rules and guidelines come from a bad personal experience I (@seanpm2001) had with GitHub on 2022 July 19th. I have learned a lot about how NOT to run a service. I feel these 7 rules will be more fair to the user and the community as a whole. Revisions are allowed, but cannot be determimental to the existing rules, features, and functionality.
+
+These rules were made during my first flag/suspension from GitHub, which as of writing this (2022, Monday, July 25th at 12:00 am) is still ongoing. I have extensively researched the issue, and hope to have corrected all flaws with this process, but there might be more, so this is still just a draft.
+
+## GitHub pro
+
+It has been decided that when I get my account back, I will pay the $7.00/month ($84.00/year) for GitHub Pro. This way, I can get better support, and also have the `Pro` label.
+
 ## Sources
 
 ### Other people dealing with the same problem
@@ -143,6 +186,8 @@ Despite the account not being visible publicly, and several things being broken,
 
 [https://github.community/t/the-community-is-moving/261602/](https://github.community/t/the-community-is-moving/261602/)
 
+On 2022, July 25th, I archived the questions I deemed important from the GitHub forum, as it appears to be closing down soon. I might re-upload the data here.
+
 ### The contact link
 
 [https://github.com/contact](https://github.com/contact/)
@@ -159,9 +204,9 @@ Despite the account not being visible publicly, and several things being broken,
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022, Sunday, July 24th at 4:40 pm PST)`
+**File version:** `7 (2022, Monday, July 25th at 5:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `311`
+**Line count (including blank lines and compiler line):** `372`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -302,6 +347,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2022, Monday, July 25th at 5:00 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Added the `What I would do differently` section
+- [x] Added the `GitHub Pro` section
+- [x] Updated the `Forum is moving` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 7
 
 </details>
 
