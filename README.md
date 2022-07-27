@@ -16,7 +16,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 4:40 pm PST on 2022 July 24th, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 6:40 pm PST on 2022 July 26th, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -54,14 +54,14 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Saturday, July 16th | :x: |
 | 2022, Sunday, July 17th | :x: |
 | 2022, Monday, July 18th | :x: |
-| 2022, Tuesday, July 19th (1) | :heavy_check_mark: |
-| 2022, Wednesday, July 20th (2) | :heavy_check_mark: |
-| 2022, Thursday, July 21st (3) | :heavy_check_mark: |
-| 2022, Friday, July 22nd (4) | :heavy_check_mark: |
-| 2022, Saturday, July 23rd (5) | :heavy_check_mark: |
-| 2022, Sunday, July 24th (6) | :heavy_check_mark: |
-| 2022, Monday, July 25th (7) | :heavy_check_mark: |
-| 2022, Tuesday, July 26th | TBD |
+| 2022, Tuesday, July 19th (day 1) | :heavy_check_mark: |
+| 2022, Wednesday, July 20th (day 2) | :heavy_check_mark: |
+| 2022, Thursday, July 21st (day 3) | :heavy_check_mark: |
+| 2022, Friday, July 22nd (day 4) | :heavy_check_mark: |
+| 2022, Saturday, July 23rd (day 5) | :heavy_check_mark: |
+| 2022, Sunday, July 24th (day 6) | :heavy_check_mark: |
+| 2022, Monday, July 25th (day 7) | :heavy_check_mark: |
+| 2022, Tuesday, July 26th (day 8) | :heavy_check_mark: |
 | 2022, Wednesday, July 27th | TBD |
 | 2022, Thursday, July 28th | TBD |
 | 2022, Friday, July 29th | TBD |
@@ -132,6 +132,22 @@ I tried to migrate to GitLab in the meantime, and GitHub finally gave me the rea
 
 Despite the account not being visible publicly, and several things being broken, I have continued to work somewhat normally. I can't let it derail all my progress. During the first 3 days of the flag, I did image file uploads in full, but as of 2022 July 22nd, I have finally made the decision to stop Git-image part A work, but still do Git-image part B work. I have also been rethinking how I will operate after this is over.
 
+## What GitHub did
+
+1. GitHub flagged my account and restricted personal view of my own content for both me and others (and also did unnecessary restrictions that can be circumvented by logging out/browsing in private browsing mode)
+
+2. GitHub let a machine be the sole judge of the decision and didn't bother to have a human check first
+
+3. GitHub gave virtually no information on why I was flagged
+
+4. Despite giving no response for 8 days and counting, the decision was not reversed
+
+5. No error logs were made
+
+6. GitHub shut down their forum a few days later, and moved it to GitHub discussions, making it impossible for flagged users to communicate their problem directly
+
+7. GitHub did little to give users a voice, and made it harder by not listening
+
 ## What I would do differently
 
 I have learned a lot about what not to do when flagging/blocking/suspending a user from a platform, and I came up with some guidelines last night (2022, Sunday, July 24th, draft V2):
@@ -167,6 +183,10 @@ These rules were made during my first flag/suspension from GitHub, which as of w
 ## GitHub pro
 
 It has been decided that when I get my account back, I will pay the $7.00/month ($84.00/year) for GitHub Pro. This way, I can get better support, and also have the `Pro` label.
+
+## Conclusion
+
+No conclusion is available, as this is still an ongoing issue.
 
 ## Sources
 
@@ -204,9 +224,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022, Monday, July 25th at 5:00 pm PST)`
+**File version:** `8 (2022, Tuesday, July 26th at 6:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `372`
+**Line count (including blank lines and compiler line):** `407`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -363,6 +383,21 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p lang="en"><b>Version 8 (2022, Tuesday, July 26th at 6:47 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Added the `What GitHub did` section
+- [x] Added the `Conclusion` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 8
 
 </details>
 
