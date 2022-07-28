@@ -16,7 +16,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 6:40 pm PST on 2022 July 26th, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 8:00 pm PST on 2022 July 27th, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -62,7 +62,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Sunday, July 24th (day 6) | :heavy_check_mark: |
 | 2022, Monday, July 25th (day 7) | :heavy_check_mark: |
 | 2022, Tuesday, July 26th (day 8) | :heavy_check_mark: |
-| 2022, Wednesday, July 27th | TBD |
+| 2022, Wednesday, July 27th (day 9) | :heavy_check_mark: |
 | 2022, Thursday, July 28th | TBD |
 | 2022, Friday, July 29th | TBD |
 | 2022, Saturday, July 30th | TBD |
@@ -128,11 +128,21 @@ I tried to migrate to GitLab in the meantime, and GitHub finally gave me the rea
 
 ![/Seanpm2001_Flagged/2022/July19th/No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png](/Seanpm2001_Flagged/2022/July19th//No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png)
 
+## Codespaces workaround
+
+I can still view image files sparsely by switching over to codespaces (shortcut: `.`) but not all images load here. It is better than GitHub, where none currently load.
+
+## Upload functionality diminishing
+
+Starting on 2022 July 26th, drag and drop upload functionality has a new flaw, it is likely unrelated to the flag. Now each time I go to upload, the drag and drop is denied, and the black GitHub favicon is shown, instead of the white one. I then have to re-drop the files to upload them. This doesn't apply if I upload indirectly (clicking the upload button, rather than just dragging and dropping onto the repository when it isn't in upload mode)
+
 ## Attempting to continue normally
 
 Despite the account not being visible publicly, and several things being broken, I have continued to work somewhat normally. I can't let it derail all my progress. During the first 3 days of the flag, I did image file uploads in full, but as of 2022 July 22nd, I have finally made the decision to stop Git-image part A work, but still do Git-image part B work. I have also been rethinking how I will operate after this is over.
 
-## What GitHub did
+## What was done, and what should have been done
+
+### What GitHub did
 
 1. GitHub flagged my account and restricted personal view of my own content for both me and others (and also did unnecessary restrictions that can be circumvented by logging out/browsing in private browsing mode)
 
@@ -148,15 +158,15 @@ Despite the account not being visible publicly, and several things being broken,
 
 7. GitHub did little to give users a voice, and made it harder by not listening
 
-## What I would do differently
+### What I would do differently
 
 I have learned a lot about what not to do when flagging/blocking/suspending a user from a platform, and I came up with some guidelines last night (2022, Sunday, July 24th, draft V2):
 
-### Running an online service
+#### Running an online service
 
-#### Avoiding GitHubs 2022 July 19th mistake
+##### Avoiding GitHubs 2022 July 19th mistake
 
-##### Basic guidelines
+###### Basic guidelines
 
 1. If a user is flagged/blocked/suspended, they will still be able to access all content in their account (same as GitHub)
 
@@ -174,7 +184,7 @@ I have learned a lot about what not to do when flagging/blocking/suspending a us
 
 7. There will be a strong user voice, where the user can make their voice heard
 
-##### Additional notes
+###### Additional notes
 
 These rules and guidelines come from a bad personal experience I (@seanpm2001) had with GitHub on 2022 July 19th. I have learned a lot about how NOT to run a service. I feel these 7 rules will be more fair to the user and the community as a whole. Revisions are allowed, but cannot be determimental to the existing rules, features, and functionality.
 
@@ -184,9 +194,17 @@ These rules were made during my first flag/suspension from GitHub, which as of w
 
 It has been decided that when I get my account back, I will pay the $7.00/month ($84.00/year) for GitHub Pro. This way, I can get better support, and also have the `Pro` label.
 
+## Microsoft
+
+I have become openly critical of Microsoft and GitHub for the first time. This has stemmed from this issue, and the failures that have happened.
+
 ## Conclusion
 
 No conclusion is available, as this is still an ongoing issue.
+
+### Aftermath
+
+Aftermath is unavailable, as this is still an ongoing issue.
 
 ## Sources
 
@@ -208,6 +226,10 @@ No conclusion is available, as this is still an ongoing issue.
 
 On 2022, July 25th, I archived the questions I deemed important from the GitHub forum, as it appears to be closing down soon. I might re-upload the data here.
 
+### Reddit post
+
+I was too late to make the post today. I will try tomorrow.
+
 ### The contact link
 
 [https://github.com/contact](https://github.com/contact/)
@@ -224,9 +246,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022, Tuesday, July 26th at 6:47 pm PST)`
+**File version:** `9 (2022, Wednesday, July 27th at 8:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `407`
+**Line count (including blank lines and compiler line):** `446`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -398,6 +420,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 8
+
+</details>
+
+<details><summary><p lang="en"><b>Version 9 (2022, Wednesday, July 27th at 6:47 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Separated the `What GitHub did` and `what I would do differently` sections into the `what was done, and what should have been done` section
+- [x] Added the `GitHub codespaces workaround` section
+- [x] Added the `upload functionality diminishing` section
+- [x] Added the `Reddit post` subsection into the sources section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 9
 
 </details>
 
