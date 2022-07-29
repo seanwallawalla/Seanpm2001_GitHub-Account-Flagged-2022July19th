@@ -16,7 +16,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 8:00 pm PST on 2022 July 27th, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 7:00 pm PST on 2022, Thursday, July 28th, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -63,7 +63,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Monday, July 25th (day 7) | :heavy_check_mark: |
 | 2022, Tuesday, July 26th (day 8) | :heavy_check_mark: |
 | 2022, Wednesday, July 27th (day 9) | :heavy_check_mark: |
-| 2022, Thursday, July 28th | TBD |
+| 2022, Thursday, July 28th (day 10) | :heavy_check_mark: |
 | 2022, Friday, July 29th | TBD |
 | 2022, Saturday, July 30th | TBD |
 | 2022, Sunday, July 31st | TBD |
@@ -127,6 +127,12 @@ Thousands of projects have been affected by this. Additionally, contributions to
 I tried to migrate to GitLab in the meantime, and GitHub finally gave me the reason why my account was flagged:
 
 ![/Seanpm2001_Flagged/2022/July19th/No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png](/Seanpm2001_Flagged/2022/July19th//No3rdPartySupport/YouAreMarkedAsSpam_Can'tConnectGitLab_2022July22nd_LightMode_1080p.png)
+
+## Discussions locked
+
+I have recently noted on 2022 July 26th that any discussion I currently have or make is automatically locked.
+
+![/Seanpm2001_Flagged/2022/July19th/DiscussionLocked/PNG/Can'tVoteOnLockedDiscussions_DiscussionLocked.png](/Seanpm2001_Flagged/2022/July19th/DiscussionLocked/PNG/Can'tVoteOnLockedDiscussions_DiscussionLocked.png)
 
 ## Codespaces workaround
 
@@ -246,9 +252,9 @@ I was too late to make the post today. I will try tomorrow.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022, Wednesday, July 27th at 8:00 pm PST)`
+**File version:** `10 (2022, Thursday, July 28th at 7:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `446`
+**Line count (including blank lines and compiler line):** `466`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -437,6 +443,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 9
+
+</details>
+
+<details><summary><p lang="en"><b>Version 10 (2022, Thursday, July 28th at 7:00 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Added the `discussions locked` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 10
 
 </details>
 
