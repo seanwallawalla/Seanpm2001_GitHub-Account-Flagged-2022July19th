@@ -16,7 +16,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 7:00 pm PST on 2022, Thursday, July 28th, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 1:58 pm PST on 2022, Friday, July 29th, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -64,7 +64,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Tuesday, July 26th (day 8) | :heavy_check_mark: |
 | 2022, Wednesday, July 27th (day 9) | :heavy_check_mark: |
 | 2022, Thursday, July 28th (day 10) | :heavy_check_mark: |
-| 2022, Friday, July 29th | TBD |
+| 2022, Friday, July 29th (day 11) | :heavy_check_mark: |
 | 2022, Saturday, July 30th | TBD |
 | 2022, Sunday, July 31st | TBD |
 
@@ -234,7 +234,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 ### Reddit post
 
-I was too late to make the post today. I will try tomorrow.
+**On r/github:** [https://www.reddit.com/r/github/comments/wbfdf1/github_account_flagged_for_11_days_and_counting/](https://www.reddit.com/r/github/comments/wbfdf1/github_account_flagged_for_11_days_and_counting/)
+
+**Crosspost on r/seanpm2001:** [https://www.reddit.com/r/seanpm2001/comments/wbfes4/github_account_flagged_for_11_days_and_counting/](https://www.reddit.com/r/seanpm2001/comments/wbfes4/github_account_flagged_for_11_days_and_counting/)
 
 ### The contact link
 
@@ -252,9 +254,9 @@ I was too late to make the post today. I will try tomorrow.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `10 (2022, Thursday, July 28th at 7:00 pm PST)`
+**File version:** `11 (2022, Friday, July 29th at 1:58 pm PST)`
 
-**Line count (including blank lines and compiler line):** `466`
+**Line count (including blank lines and compiler line):** `482`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -457,6 +459,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 10
+
+</details>
+
+<details><summary><p lang="en"><b>Version 11 (2022, Friday, July 29th at 1:58 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `Reddit post` subsection
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 11
 
 </details>
 
