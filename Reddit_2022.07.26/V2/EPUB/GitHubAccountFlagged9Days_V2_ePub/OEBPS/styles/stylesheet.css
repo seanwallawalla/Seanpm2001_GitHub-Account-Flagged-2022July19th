@@ -1,0 +1,33 @@
+.para1 {
+  margin:  0px 0px 0px 0px;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0835in 0px;
+}
+
+.span2 {
+  color: #000080;
+  text-decoration:  underline;
+}
+
+.span1 {
+}
+
+.span0 {
+  font-family: 'Liberation Sans';
+  font-size: 18.0000pt;
+  font-weight: bold;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
+
+.frame0 {
+  float: left;
+  width: 0.5311in;
+}

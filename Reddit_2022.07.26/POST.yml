@@ -1,0 +1,19 @@
+# Reddit post for GitHub flag incident (2022 July)
+KEY: TALK THIS THROUGH BEFORE SENDING
+Key questions: List:
+1: Is it safe to mention by alt account (what if it got reported and blocked as well)
+POST_TITLE: GitHub account flagged for 9 days and counting
+POST_BODY: {
+I'm sorry that this post is a big wall of text, I needed to give context in full. This post is a little over 500 words, so it should be fine.
+My GitHub account (seanpm2001) has been flagged since 2022, Tuesday, July 19th. I have sent 2 contact requests, but have received absolutely no response from GitHub (not even by a bot) as of posting this, it has been 9 days now (my first response was to an email address that has been the target of spam emails, and is not feasible to get a response from, as it receives over 10000 emails per day, my second response was about 4 days later) GitHub recently shut down their forum (it is currently read only) so I chose to post this here.
+I have been a GitHub user since 2020 May 25th, and I have been on the site extensively. I uploaded most of my work from the past 7.43 years here, and it is critical I get it back and running soon. I have already been forced out of many opportunities, my future might be severely negatively impacted by this now. I have over 3350 repositories, of which a little over half of them are forks (while over 1540 of them are source repositories) I also have A LOT (1,000) of GitHub organizations, which I treat as subcategories. I am wondering if I was counted as a bot, I have not officially been given a reason why I have been blocked, but all my issues and pull requests have this label:
+} File: SPAMMY.png
+Continue_PostBody: {
+And if I try to connect to GitLab, it says that I cannot do so, as I am marked as spam. Other than this, it has not officially told me why I have been flagged.
+I have been able to continue somewhat normally with my daily work, I can't let my consecutive day streak die (over 777 days) and I have things I have been doing, they just haven't been public. I have over 155,000 total commits on GitHub, I average 151-380 per day. Additionally, some weird behavior has been noted, such as images not rendering on GitHub (but rendering partially with GitHub codespaces, and the files not being damaged) along with my ability to search files by language within a repository being blocked (although this restriction is pointless, as all I have to do is go into private browsing mode or log out to search this way normally)
+I realize that some errors were made, and I am working on correcting them. I just have a lot of unique projects in hundreds of different fields, and I needed a way to platform them (through organizations) Is there any way I can get a response? Even just if I get someone to talk to today would be great.
+} Controversial_PostBody: {
+I have a detailed report on my alt account if you want to read more. It is located here: https://github.com/seanwallawalla/Seanpm2001_GitHub-Account-Flagged-2022July19th
+}
+# End of file
+
