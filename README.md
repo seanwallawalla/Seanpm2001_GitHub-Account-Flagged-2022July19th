@@ -1,8 +1,108 @@
 
 ***
 
+###### Top
+
 # Seanpm2001_GitHub-Account-Flagged-2022July19th
 Information about my main GitHub account @seanpm2001 which was flagged on 2022 July 19th.
+
+**Index**
+
+[00.0 - Top](#Top)
+
+[00.9 - Title](#Seanpm2001_GitHub-Account-Flagged-2022July19th)
+
+[01.0 - Context](#Context)
+
+[02.0 - Days flagged](#Days-flagged)
+
+> [02.1 - Days flagged in 2022](#Days-flagged-in-2022)
+
+> > [02.1.1 - Days flagged in 2022 January](#Days-flagged-in-2022-January)
+
+> > [02.1.2 - Days flagged in 2022 February](#Days-flagged-in-2022-February)
+
+> > [02.1.3 - Days flagged in 2022 March](#Days-flagged-in-2022-March)
+
+> > [02.1.4 - Days flagged in 2022 April](#Days-flagged-in-2022-April)
+
+> > [02.1.5 - Days flagged in 2022 May](#Days-flagged-in-2022-May)
+
+> > [02.1.6 - Days flagged in 2022 June](#Days-flagged-in-2022-June)
+
+> > [02.1.7 - Days flagged in 2022 July](#Days-flagged-in-2022-July)
+
+> > [02.1.8 - Days flagged in 2022 August](#Days-flagged-in-2022-August)
+
+[03.0 - Usage of alt account](#Usage-of-alt-account)
+
+> [03.1 - Alt account discovery](#Alt-account-discovery)
+
+[04.0 - Stress](#Stress)
+
+[05.0 - Follows during suspension](#Follows-during-suspension)
+
+[06.0 - Odd restrictions](#Odd-restrictions)
+
+[07.0 - Spammy](#Spammy)
+
+[08.0 - GitHub customer support](#GitHub-customer-support)
+
+[09.0 - Reddit post](#Reddit-post)
+
+[10.0 - Negative impact](#Negative-impact)
+
+[11.0 - Inability to use third party programs](#Inability-to-use-third-party-programs)
+
+[12.0 - Discussions locked](#Discussions-locked)
+
+[13.0 - Codespaces workaround](#Codespaces-workaround)
+
+[14.0 - Upload functionality diminishing](#Upload-functionality-diminishing)
+
+[15.0 - Attempting to continue normally](#Attempting-to-continue-normally)
+
+[16.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
+
+> [16.1 - What GitHub did](#What-GitHub-did)
+
+> [16.2 - What I would do differently](#What-I-would-do-differently)
+
+> > [16.2.1 - Running an online service](#Running-an-online-service)
+
+> > > [16.2.1.1 - Avoiding GitHubs 2022 July 19th mistake](#Avoiding-GitHubs-2022-July-19th-mistake)
+
+> > > > [16.2.1.1.1 - Basic guidelines](#Basic-guidelines)
+
+> > > > [16.2.1.1.2 - Additional notes](#Additional-notes)
+
+[17.0 - GitHub pro](#GitHub-pro)
+
+[18.0 - Microsoft](#Microsoft)
+
+[19.0 - Conclusion](#Conclusion)
+
+> [19.1 - Aftermath](#Aftermath)
+
+[20.0 - Sources](#Sources)
+
+> [20.1 - Other people dealing with the same problem](#Other-people-dealing-with-the-same-problem)
+
+> [20.2 - Related problems](#Related-problems)
+
+> [20.3 - Forum is moving](#Forum-is-moving)
+
+> [20.4 - Reddit post](#Reddit-post)
+
+> [20.5 - The contact link](#The-contact-link)
+
+> [20.6 - GitHub email address (bot)](#GitHub-email-address-bot)
+
+[21.0 - File info](#File-info)
+
+[22.0 - File history](#File-history)
+
+[23.0 - Footer](#Footer)
 
 ## Context
 
@@ -32,12 +132,261 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 </details>
 
+## Days flagged
+
+This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
+
+### Days flagged in 2022
+
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table</b></p></summary>
 
 | Date | Flagged? |
 |---|---|
 
-| July (Month 1) | Flagged? |
+</details>
+
+#### Days flagged in 2022 January
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022 January, 6 months before the flag)</b></p></summary>
+
+| 2022 January (month -5) | Flagged? |
+|---|---|
+| 2022, Saturday, January 1st | :x:|
+| 2022, Sunday, January 2nd | :x:|
+| 2022, Monday, January 3rd | :x:|
+| 2022, Tuesday, January 4th | :x:|
+| 2022, Wednesday, January 5th | :x:|
+| 2022, Thursday, January 6th | :x:|
+| 2022, Friday, January 7th | :x:|
+| 2022, Saturday, January 8th | :x:|
+| 2022, Sunday, January 9th | :x:|
+| 2022, Monday, January 10th | :x:|
+| 2022, Tuesday, January 11th | :x:|
+| 2022, Wednesday, January 12th | :x:|
+| 2022, Thursday, January 13th | :x:|
+| 2022, Friday, January 14th | :x:|
+| 2022, Saturday, January 15th | :x:|
+| 2022, Sunday, January 16th | :x:|
+| 2022, Monday, January 17th | :x:|
+| 2022, Tuesday, January 18th | :x:|
+| 2022, Wednesday, January 19th | :x:|
+| 2022, Thursday, January 20th | :x:|
+| 2022, Friay, January 21st | :x:|
+| 2022, Saturday, January 22nd | :x:|
+| 2022, Sunday, January 23rd | :x:|
+| 2022, Monday, January 24th | :x:|
+| 2022, Tuesday, January 25th | :x:|
+| 2022, Wednesday, January 26th | :x:|
+| 2022, Thursday, January 27th | :x:|
+| 2022, Friday, January 28th | :x:|
+| 2022, Saturday, January 29th | :x:|
+| 2022, Sunday, January 30th | :x:|
+| 2022, Monday, January 31st | :x:|
+
+</details>
+
+#### Days flagged in 2022 February
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022 February, 5 months before the flag)</b></p></summary>
+
+| 2022 February (month -4) | Flagged? |
+|---|---|
+| 2022, Tuesday, February 1st | :x:|
+| 2022, Wednesday, February 2nd | :x:|
+| 2022, Thursday, February 3rd | :x:|
+| 2022, Friday, February 4th | :x:|
+| 2022, Saturday, February 5th | :x:|
+| 2022, Sunday, February 6th | :x:|
+| 2022, Monday, February 7th | :x:|
+| 2022, Tuesday, February 8th | :x:|
+| 2022, Wednesday, February 9th | :x:|
+| 2022, Thursday, February 10th | :x:|
+| 2022, Friday, February 11th | :x:|
+| 2022, Saturday, February 12th | :x:|
+| 2022, Sunday, February 13th | :x:|
+| 2022, Monday, February 14th | :x:|
+| 2022, Tuesday, February 15th | :x:|
+| 2022, Wednesday, February 16th | :x:|
+| 2022, Thursday, February 17th | :x:|
+| 2022, Friday, February 18th | :x:|
+| 2022, Saturday, February 19th | :x:|
+| 2022, Sunday, February 20th | :x:|
+| 2022, Monday, February 21st | :x:|
+| 2022, Tuesday, February 22nd | :x:|
+| 2022, Wednesday, February 23rd | :x:|
+| 2022, Thursday, February 24th | :x:|
+| 2022, Friday, February 25th | :x:|
+| 2022, Saturday, February 26th | :x:|
+| 2022, Sunday, February 27th | :x:|
+| 2022, Monday, February 28th | :x:|
+
+</details>
+
+#### Days flagged in 2022 March
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022 March, 4 months before the flag)</b></p></summary>
+
+| 2022 March (month -3) | Flagged? |
+|---|---|
+| 2022, Tuesday, March 1st | :x:|
+| 2022, Wednesday, March 2nd | :x:|
+| 2022, Thursday, March 3rd | :x:|
+| 2022, Friday, March 4th | :x:|
+| 2022, Saturday, March 5th | :x:|
+| 2022, Sunday, March 6th | :x:|
+| 2022, Monday, March 7th | :x:|
+| 2022, Tuesday, March 8th | :x:|
+| 2022, Wednesday, March 9th | :x:|
+| 2022, Thursday, March 10th | :x:|
+| 2022, Friday, March 11th | :x:|
+| 2022, Saturday, March 12th | :x:|
+| 2022, Sunday, March 13th | :x:|
+| 2022, Monday, March 14th | :x:|
+| 2022, Tuesday, March 15th | :x:|
+| 2022, Wednesday, March 16th | :x:|
+| 2022, Thursday, March 17th | :x:|
+| 2022, Friday, March 18th | :x:|
+| 2022, Saturday, March 19th | :x:|
+| 2022, Sunday, March 20th | :x:|
+| 2022, Monday, March 21st | :x:|
+| 2022, Tuesday, March 22nd | :x:|
+| 2022, Wednesday, March 23rd | :x:|
+| 2022, Thursday, March 24th | :x:|
+| 2022, Friday, March 25th | :x:|
+| 2022, Saturday, March 26th | :x:|
+| 2022, Sunday, March 27th | :x:|
+| 2022, Monday, March 28th | :x:|
+| 2022, Tuesday, March 29th | :x: |
+| 2022, Wednesday, March 30th | :x: |
+| 2022, Thursday, March 31st | :x: |
+
+</details>
+
+#### Days flagged in 2022 April
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022 April, 3 months before the flag)</b></p></summary>
+
+| 2022 April (month -2) | Flagged? |
+|---|---|
+| 2022, Friday, April 1st | :x:|
+| 2022, Saturday, April 2nd | :x:|
+| 2022, Sunday, April 3rd | :x:|
+| 2022, Monday, April 4th | :x:|
+| 2022, Tuesday, April 5th | :x:|
+| 2022, Wednesday, April 6th | :x:|
+| 2022, Thursday, April 7th | :x:|
+| 2022, Friday, April 8th | :x:|
+| 2022, Saturday, April 9th | :x:|
+| 2022, Sunday, April 10th | :x:|
+| 2022, Monday, April 11th | :x:|
+| 2022, Tuesday, April 12th | :x:|
+| 2022, Wednesday, April 13th | :x:|
+| 2022, Thursday, April 14th | :x:|
+| 2022, Friday, April 15th | :x:|
+| 2022, Saturday, April 16th | :x:|
+| 2022, Sunday, April 17th | :x:|
+| 2022, Monday, April 18th | :x:|
+| 2022, Tuesday, April 19th | :x:|
+| 2022, Wednesday, April 20th | :x:|
+| 2022, Thursday, April 21st | :x:|
+| 2022, Friday, April 22nd | :x:|
+| 2022, Saturday, April 23rd | :x:|
+| 2022, Sunday, April 24th | :x:|
+| 2022, Monday, April 25th | :x:|
+| 2022, Tuesday, April 26th | :x:|
+| 2022, Wednesday, April 27th | :x:|
+| 2022, Thursday, April 28th | :x:|
+| 2022, Friday, April 29th | :x: |
+| 2022, Saturday, April 30th | :x: |
+
+</details>
+
+#### Days flagged in 2022 May
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022 May, 2 months before the flag)</b></p></summary>
+
+| 2022 May (month -1) | Flagged? |
+|---|---|
+| 2022, Sunday, May 1st | :x:|
+| 2022, Monday, May 2nd | :x:|
+| 2022, Tuesday, May 3rd | :x:|
+| 2022, Wednesday, May 4th | :x:|
+| 2022, Thursday, May 5th | :x:|
+| 2022, Friday, May 6th | :x:|
+| 2022, Saturday, May 7th | :x:|
+| 2022, Sunday, May 8th | :x:|
+| 2022, Monday, May 9th | :x:|
+| 2022, Tuesday, May 10th | :x:|
+| 2022, Wednesday, May 11th | :x:|
+| 2022, Thursday, May 12th | :x:|
+| 2022, Friday, May 13th | :x:|
+| 2022, Saturday, May 14th | :x:|
+| 2022, Sunday, May 15th | :x:|
+| 2022, Monday, May 16th | :x:|
+| 2022, Tuesday, May 17th | :x:|
+| 2022, Wednesday, May 18th | :x:|
+| 2022, Thursday, May 19th | :x:|
+| 2022, Friday, May 20th | :x:|
+| 2022, Saturday, May 21st | :x:|
+| 2022, Sunday, May 22nd | :x:|
+| 2022, Monday, May 23rd | :x:|
+| 2022, Tuesday, May 24th | :x:|
+| 2022, Wednesday, May 25th | :x:|
+| 2022, Thursday, May 26th | :x:|
+| 2022, Friday, May 27th | :x:|
+| 2022, Saturday, May 28th | :x:|
+| 2022, Sunday, May 29th | :x: |
+| 2022, Monday, May 30th | :x: |
+| 2022, Tuesday, May 31st | :x: |
+
+</details>
+
+#### Days flagged in 2022 June
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022 June, 1 month before the flag)</b></p></summary>
+
+| 2022 June (month 0) | Flagged? |
+|---|---|
+| 2022, Wednesday, June 1st | :x:|
+| 2022, Thursday, June 2nd | :x:|
+| 2022, Friday, June 3rd | :x:|
+| 2022, Saturday, June 4th | :x:|
+| 2022, Sunday, June 5th | :x:|
+| 2022, Monday, June 6th | :x:|
+| 2022, Tuesday, June 7th | :x:|
+| 2022, Wednesday, June 8th | :x:|
+| 2022, Thursday, June 9th | :x:|
+| 2022, Friday, June 10th | :x:|
+| 2022, Saturday, June 11th | :x:|
+| 2022, Sunday, June 12th | :x:|
+| 2022, Monday, June 13th | :x:|
+| 2022, Tuesday, June 14th | :x:|
+| 2022, Wednesday, June 15th | :x:|
+| 2022, Thursday, June 16th | :x:|
+| 2022, Friday, June 17th | :x:|
+| 2022, Saturday, June 18th | :x:|
+| 2022, Sunday, June 19th | :x:|
+| 2022, Monday, June 20th | :x:|
+| 2022, Tuesday, June 21st | :x:|
+| 2022, Wednesday, June 22nd | :x:|
+| 2022, Thursday, June 23rd | :x:|
+| 2022, Friday, June 24th | :x:|
+| 2022, Saturday, June 25th | :x:|
+| 2022, Sunday, June 26th | :x:|
+| 2022, Monday, June 27th | :x:|
+| 2022, Tuesday, June 28th | :x:|
+| 2022, Wednesday, June 29th | :x: |
+| 2022, Thursday, June 30th | :x: |
+
+</details>
+
+#### Days flagged in 2022 July
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022 July, start of suspension/flag)</b></p></summary>
+
+| 2022 July (Month 1) | Flagged? |
 |---|---|
 | 2022, Friday, July 1st | :x: |
 | 2022, Saturday, July 2nd | :x: |
@@ -69,9 +418,15 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Thursday, July 28th (day 10) | :heavy_check_mark: |
 | 2022, Friday, July 29th (day 11) | :heavy_check_mark: |
 | 2022, Saturday, July 30th (day 12) | :heavy_check_mark: |
-| 2022, Sunday, July 31st | TBD |
+| 2022, Sunday, July 31st (day 13) | :heavy_check_mark: |
 
-| August (Month 2) | Flagged? |
+</details>
+
+#### Days flagged in 2022 August
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022, August)</b></p></summary>
+
+| 2022 August (Month 2) | Flagged? |
 |---|---|
 | 2022, Monday, August 1st | TBD |
 | 2022, Tuesday, August 2nd | TBD |
@@ -83,6 +438,29 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Monday, August 8th | TBD |
 | 2022, Tuesday, August 9th | TBD |
 | 2022, Wednesday, August 10th | TBD |
+| 2022, Thursday, August 11th | TBD |
+| 2022, Friday, August 12th | TBD |
+| 2022, Saturday, August 13th | TBD |
+| 2022, Sunday, August 14th | TBD |
+| 2022, Monday, August 15th | TBD |
+| 2022, Tuesday, August 16th | TBD |
+| 2022, Wednesday, August 17th | TBD |
+| 2022, Thursday, August 18th | TBD |
+| 2022, Friday, August 19th | TBD |
+| 2022, Saturday, August 20th | TBD |
+| 2022, Sunday, August 21st | TBD |
+| 2022, Monday, August 22nd | TBD |
+| 2022, Tuesday, August 23rd | TBD |
+| 2022, Wednesday, August 24th | TBD |
+| 2022, Thursday, August 25th | TBD |
+| 2022, Friday, August 26th | TBD |
+| 2022, Saturday, August 27th | TBD |
+| 2022, Sunday, August 28th | TBD |
+| 2022, Monday, August 29th | TBD |
+| 2022, Tuesday, August 30th | TBD |
+| 2022, Wednesday, August 31st | TBD |
+
+</details>
 
 </details>
 
@@ -106,13 +484,18 @@ It might be related to the flag on my main account, but my first and main GitHub
 
 ## Stress
 
-I have been under significant stress during this time period. Things are being delayed, and my future is uncertain. There are many examples of people cloning/forking my repositories, but my official projects are not publicly available at the moment. Additionally, I have received followers while my account was blocked, which I find odd.
+I have been under significant stress during this time period. Things are being delayed, and my future is uncertain. There are many examples of people cloning/forking my repositories, but my official projects are not publicly available at the moment. 
+It has been extremely stressful for me. On 2022 July 22nd, I reached a bad milestone: I had never been so stressed in my life until that day, and my morale was the lowest it had ever been.
+
+## Follows during suspension
+
+Additionally, I have received followers while my account was blocked, which I find odd.
 
 | Original follower count at start of flag/suspension | Gaining a follower during flag/suspension |
 |---|---|
 | ![Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png) | ![/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png) |
 
-It has been extremely stressful for me. On 2022 July 22nd, I reached a bad milestone: I had never been so stressed in my life until that day, and my morale was the lowest it had ever been.
+On 2022, Sunday, July 31st, someone unfollowed me. I am not sure how they are able to access my profile to do this.
 
 ## Odd restrictions
 
@@ -168,7 +551,7 @@ Starting on 2022 July 26th, drag and drop upload functionality has a new flaw, i
 
 Despite the account not being visible publicly, and several things being broken, I have continued to work somewhat normally. I can't let it derail all my progress. During the first 3 days of the flag, I did image file uploads in full, but as of 2022 July 22nd, I have finally made the decision to stop Git-image part A work, but still do Git-image part B work. I have also been rethinking how I will operate after this is over.
 
-## What was done, and what should have been done
+## What was done and what should have been done
 
 ### What GitHub did
 
@@ -264,7 +647,7 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 [https://github.com/contact](https://github.com/contact/)
 
-#### GitHub email address (bot)
+#### GitHub email address
 
 [mailto:support@github.com](mailto:support@github.com)
 
@@ -276,9 +659,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2022, Saturday, July 30th at 7:15 pm PST)`
+**File version:** `13 (2022, Sunday, July 31st at 4:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `519`
+**Line count (including blank lines and compiler line):** `938`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -513,6 +896,42 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
+<details><summary><p lang="en"><b>Version 13 (2022, Sunday, July 31st at 4:00 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `stress` section
+- [x] Added the `days flagged` section
+- - [x] Added a 2022 January table
+- - [x] Added a 2022 February table
+- - [x] Added a 2022 March table
+- - [x] Added a 2022 April table
+- - [x] Added a 2022 May table
+- - [x] Added a 2022 June table
+- - [x] Updated a 2022 July table
+- - [x] Updated a 2022 August table
+- [x] Added the `follows during suspension` section
+- [x] Added the `index` section
+- [x] Updated the `GitHub email address (bot)` section
+- [x] Updated the `what was done and what could have been done differently` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [x] Added the footer
+- [ ] No other changes in version 13
+
 </details>
+
+</details>
+
+***
+
+## Footer
+
+You have reached the end of this file.
+
+( [`Back to top`](#Top) | [`Exit to GitHub`](https://github.com/) | [`Exit to GistHub`](https://gist.github.com/) | [`Exit to Bing`](https://bing.com/) | [`Exit to DuckDuckGo`](https://duckduckgo.com/) | [`Exit to DuckDuckGo (safe browsing)`](https://safe.duckduckgo.com/) | [`Exit to Ecosia`](https://www.ecosia.org/) | [`Exit to Swisscows`](https://swisscows.com/) )
 
 ***
