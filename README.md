@@ -16,7 +16,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 1:58 pm PST on 2022, Friday, July 29th, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 7:15 pm PST on 2022, Saturday, July 30th, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -35,6 +35,9 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table</b></p></summary>
 
 | Date | Flagged? |
+|---|---|
+
+| July (Month 1) | Flagged? |
 |---|---|
 | 2022, Friday, July 1st | :x: |
 | 2022, Saturday, July 2nd | :x: |
@@ -65,8 +68,21 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 | 2022, Wednesday, July 27th (day 9) | :heavy_check_mark: |
 | 2022, Thursday, July 28th (day 10) | :heavy_check_mark: |
 | 2022, Friday, July 29th (day 11) | :heavy_check_mark: |
-| 2022, Saturday, July 30th | TBD |
+| 2022, Saturday, July 30th (day 12) | :heavy_check_mark: |
 | 2022, Sunday, July 31st | TBD |
+
+| August (Month 2) | Flagged? |
+|---|---|
+| 2022, Monday, August 1st | TBD |
+| 2022, Tuesday, August 2nd | TBD |
+| 2022, Wednesday, August 3rd | TBD |
+| 2022, Thursday, August 4th | TBD |
+| 2022, Friday, August 5th | TBD |
+| 2022, Saturday, August 6th | TBD |
+| 2022, Sunday, August 7th | TBD |
+| 2022, Monday, August 8th | TBD |
+| 2022, Tuesday, August 9th | TBD |
+| 2022, Wednesday, August 10th | TBD |
 
 </details>
 
@@ -115,6 +131,12 @@ Upon going to any of my issues or pull requests, I noticed that a label `Spammy`
 ## GitHub customer support
 
 GitHub customer support has been exceedingly poor. The contact form is taking a very long time, I am not being told why I was flagged, I can't email GitHub (they just blocked my email address when I tried) the forum appears to be moving to GitHub discussions (which will just make it impossible for people with this problem to reach out) and I have not been able to interact with an actual person (not even a bot)
+
+## Reddit post
+
+The Reddit post didn't go as planned. I was met with downvotes, then a snarky reply, then the post was silent until around 1:00 am, when positive posts started coming in. From what I am hearing, it is very possible to get an immediate flag after being reviewed, and that GitHubs spam detection system is having severe problems. I was given the hopeful message "they will get to you eventually" and I was again told the importance of keeping a local server, which is additional support for the idea. Although I have already been starting to become aware of how important a personal server is, this user is now the 3rd person besides me to validate it, increasing the chances that I might actually be able to get one.
+
+I will not leave images of the Reddit post here. The link is down below in the sources.
 
 ## Negative impact
 
@@ -254,9 +276,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `11 (2022, Friday, July 29th at 1:58 pm PST)`
+**File version:** `12 (2022, Saturday, July 30th at 7:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `482`
+**Line count (including blank lines and compiler line):** `519`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -469,10 +491,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > Changes:
 
 - [x] Updated the `context` section
-- [x] Updated the `Reddit post` subsection
+- [x] Updated the `Reddit post:source` subsection
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 11
+
+</details>
+
+<details><summary><p lang="en"><b>Version 12 (2022, Saturday, July 30th at 7:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `Reddit post:source` subsection
+- [x] Added the `Reddit post` section 
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 12
 
 </details>
 
