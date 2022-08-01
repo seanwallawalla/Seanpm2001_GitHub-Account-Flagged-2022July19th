@@ -34,6 +34,14 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 > > [02.1.8 - Days flagged in 2022 August](#Days-flagged-in-2022-August)
 
+> > [02.1.9 - Days flagged in 2022 September](#Days-flagged-in-2022-September)
+
+> > [02.1.10 - Days flagged in 2022 October](#Days-flagged-in-2022-October)
+
+> > [02.1.11 - Days flagged in 2022 November](#Days-flagged-in-2022-November)
+
+> > [02.1.12 - Days flagged in 2022 December](#Days-flagged-in-2022-December)
+
 [03.0 - Usage of alt account](#Usage-of-alt-account)
 
 > [03.1 - Alt account discovery](#Alt-account-discovery)
@@ -135,6 +143,8 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 ## Days flagged
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
+
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Monday, August 1st` _(14 days, or 2 weeks, 0 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -428,7 +438,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 
 | 2022 August (Month 2) | Flagged? |
 |---|---|
-| 2022, Monday, August 1st | TBD |
+| 2022, Monday, August 1st (day 14) | :heavy_check_mark: |
 | 2022, Tuesday, August 2nd | TBD |
 | 2022, Wednesday, August 3rd | TBD |
 | 2022, Thursday, August 4th | TBD |
@@ -459,6 +469,164 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Monday, August 29th | TBD |
 | 2022, Tuesday, August 30th | TBD |
 | 2022, Wednesday, August 31st | TBD |
+
+</details>
+
+#### Days flagged in 2022 September
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022, September)</b></p></summary>
+
+| 2022 September (Month 3) | Flagged? |
+|---|---|
+| 2022, Thursday, September 1st | TBD |
+| 2022, Friday, September 2nd | TBD |
+| 2022, Saturday, September 3rd | TBD |
+| 2022, Sunday, September 4th | TBD |
+| 2022, Monday, September 5th | TBD |
+| 2022, Tuesday, September 6th | TBD |
+| 2022, Wednesday, September 7th | TBD |
+| 2022, Thursday, September 8th | TBD |
+| 2022, Friday, September 9th | TBD |
+| 2022, Saturday, September 10th | TBD |
+| 2022, Sunday, September 11th | TBD |
+| 2022, Monday, September 12th | TBD |
+| 2022, Tuesday, September 13th | TBD |
+| 2022, Wednesday, September 14th | TBD |
+| 2022, Thursday, September 15th | TBD |
+| 2022, Friday, September 16th | TBD |
+| 2022, Saturday, September 17th | TBD |
+| 2022, Sunday, September 18th | TBD |
+| 2022, Monday, September 19th | TBD |
+| 2022, Tuesday, September 20th | TBD |
+| 2022, Wednesday, September 21st | TBD |
+| 2022, Thursday, September 22nd | TBD |
+| 2022, Friday, September 23rd | TBD |
+| 2022, Saturday, September 24th | TBD |
+| 2022, Sunday, September 25th | TBD |
+| 2022, Monday, September 26th | TBD |
+| 2022, Tuesday, September 27th | TBD |
+| 2022, Wednesday, September 28th | TBD |
+| 2022, Thursday, September 29th | TBD |
+| 2022, Friday, September 30th | TBD |
+
+</details>
+
+#### Days flagged in 2022 October
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022, October)</b></p></summary>
+
+| 2022 October (Month 4) | Flagged? |
+|---|---|
+| 2022, Saturday, October 1st | TBD |
+| 2022, Sunday, October 2nd | TBD |
+| 2022, Monday, October 3rd | TBD |
+| 2022, Tuesday, October 4th | TBD |
+| 2022, Wednesday, October 5th | TBD |
+| 2022, Thursday, October 6th | TBD |
+| 2022, Friday, October 7th | TBD |
+| 2022, Saturday, October 8th | TBD |
+| 2022, Sunday, October 9th | TBD |
+| 2022, Monday, October 10th | TBD |
+| 2022, Tuesday, October 11th | TBD |
+| 2022, Wednesday, October 12th | TBD |
+| 2022, Thursday, October 13th | TBD |
+| 2022, Friday, October 14th | TBD |
+| 2022, Saturday, October 15th | TBD |
+| 2022, Sunday, October 16th | TBD |
+| 2022, Monday, October 17th | TBD |
+| 2022, Tuesday, October 18th | TBD |
+| 2022, Wednesday, October 19th | TBD |
+| 2022, Thursday, October 20th | TBD |
+| 2022, Friday, October 21st | TBD |
+| 2022, Saturday, October 22nd | TBD |
+| 2022, Sunday, October 23rd | TBD |
+| 2022, Monday, October 24th | TBD |
+| 2022, Tuesday, October 25th | TBD |
+| 2022, Wednesday, October 26th | TBD |
+| 2022, Thursday, October 27th | TBD |
+| 2022, Friday, October 28th | TBD |
+| 2022, Saturday, October 29th | TBD |
+| 2022, Sunday, October 30th | TBD |
+| 2022, Monday, October 31st | TBD |
+
+</details>
+
+#### Days flagged in 2022 November
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022, November)</b></p></summary>
+
+| 2022 November (Month 5) | Flagged? |
+|---|---|
+| 2022, Tuesday, November 1st | TBD |
+| 2022, Wednesday, November 2nd | TBD |
+| 2022, Thursday, November 3rd | TBD |
+| 2022, Friday, November 4th | TBD |
+| 2022, Saturday, November 5th | TBD |
+| 2022, Sunday, November 6th | TBD |
+| 2022, Monday, November 7th | TBD |
+| 2022, Tuesday, November 8th | TBD |
+| 2022, Wednesday, November 9th | TBD |
+| 2022, Thursday, November 10th | TBD |
+| 2022, Friday, November 11th | TBD |
+| 2022, Saturday, November 12th | TBD |
+| 2022, Sunday, November 13th | TBD |
+| 2022, Monday, November 14th | TBD |
+| 2022, Tuesday, November 15th | TBD |
+| 2022, Wednesday, November 16th | TBD |
+| 2022, Thursday, November 17th | TBD |
+| 2022, Friday, November 18th | TBD |
+| 2022, Saturday, November 19th | TBD |
+| 2022, Sunday, November 20th | TBD |
+| 2022, Monday, November 21st | TBD |
+| 2022, Tuesday, November 22nd | TBD |
+| 2022, Wednesday, November 23rd | TBD |
+| 2022, Thursday, November 24th | TBD |
+| 2022, Friday, November 25th | TBD |
+| 2022, Saturday, November 26th | TBD |
+| 2022, Sunday, November 27th | TBD |
+| 2022, Monday, November 28th | TBD |
+| 2022, Tuesday, November 29th | TBD |
+| 2022, Wednesday, November 30th | TBD |
+
+</details>
+
+#### Days flagged in 2022 December
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this table (2022, December)</b></p></summary>
+
+| 2022 December (Month 6) | Flagged? |
+|---|---|
+| 2022, Thursday, December 1st | TBD |
+| 2022, Friday, December 2nd | TBD |
+| 2022, Saturday, December 3rd | TBD |
+| 2022, Sunday, December 4th | TBD |
+| 2022, Monday, December 5th | TBD |
+| 2022, Tuesday, December 6th | TBD |
+| 2022, Wednesday, December 7th | TBD |
+| 2022, Thursday, December 8th | TBD |
+| 2022, Friday, December 9th | TBD |
+| 2022, Saturday, December 10th | TBD |
+| 2022, Sunday, December 11th | TBD |
+| 2022, Monday, December 12th | TBD |
+| 2022, Tuesday, December 13th | TBD |
+| 2022, Wednesday, December 14th | TBD |
+| 2022, Thursday, December 15th | TBD |
+| 2022, Friday, December 16th | TBD |
+| 2022, Saturday, December 17th | TBD |
+| 2022, Sunday, December 18th | TBD |
+| 2022, Monday, December 19th | TBD |
+| 2022, Tuesday, December 20th | TBD |
+| 2022, Wednesday, December 21st | TBD |
+| 2022, Thursday, December 22nd | TBD |
+| 2022, Friday, December 23rd | TBD |
+| 2022, Saturday, December 24th | TBD |
+| 2022, Sunday, December 25th | TBD |
+| 2022, Monday, December 26th | TBD |
+| 2022, Tuesday, December 27th | TBD |
+| 2022, Wednesday, December 28th | TBD |
+| 2022, Thursday, December 29th | TBD |
+| 2022, Friday, December 30th | TBD |
+| 2022, Saturday, December 31st | TBD |
 
 </details>
 
@@ -659,9 +827,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `13 (2022, Sunday, July 31st at 4:00 pm PST)`
+**File version:** `14 (2022, Monday, August 1st at 2:10 pm PST)`
 
-**Line count (including blank lines and compiler line):** `938`
+**Line count (including blank lines and compiler line):** `1,126`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -921,6 +1089,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file history` section
 - [x] Added the footer
 - [ ] No other changes in version 13
+
+</details>
+
+<details><summary><p lang="en"><b>Version 14 (2022, Monday, August 1st at 2:10 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the index
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- - [x] Added the `2022 September` table
+- - [x] Added the `2022 October` table
+- - [x] Added the `2022 November` table
+- - [x] Added the `2022 December` table
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 14
 
 </details>
 
