@@ -124,7 +124,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 7:15 pm PST on 2022, Saturday, July 30th, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 4:03 pm PST on 2022, Tuesday, August 2nd, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -439,7 +439,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022 August (Month 2) | Flagged? |
 |---|---|
 | 2022, Monday, August 1st (day 14) | :heavy_check_mark: |
-| 2022, Tuesday, August 2nd | TBD |
+| 2022, Tuesday, August 2nd (day 15) | :heavy_check_mark: |
 | 2022, Wednesday, August 3rd | TBD |
 | 2022, Thursday, August 4th | TBD |
 | 2022, Friday, August 5th | TBD |
@@ -729,13 +729,15 @@ Despite the account not being visible publicly, and several things being broken,
 
 3. GitHub gave virtually no information on why I was flagged
 
-4. Despite giving no response for 8 days and counting, the decision was not reversed
+4. Despite giving no response for 15 days and counting, the decision was not reversed
 
 5. No error logs were made
 
 6. GitHub shut down their forum a few days later, and moved it to GitHub discussions, making it impossible for flagged users to communicate their problem directly
 
 7. GitHub did little to give users a voice, and made it harder by not listening
+
+8. GitHub prevented use of third party services during the account flag
 
 ### What I would do differently
 
@@ -762,6 +764,8 @@ I have learned a lot about what not to do when flagging/blocking/suspending a us
 6. There will always be a forum that doesn't require an account to be unsuspended to use (even an account terminated from the service can still use the forum, albeit with some limitations that won't prevent them from reporting their problem)
 
 7. There will be a strong user voice, where the user can make their voice heard
+
+8. Third party services will still be usable to flagged/suspended users, as they are a vital lifeline for transitioning
 
 ###### Additional notes
 
@@ -827,9 +831,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `14 (2022, Monday, August 1st at 2:10 pm PST)`
+**File version:** `15 (2022, Tuesday, August 2nd at 4:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,126`
+**Line count (including blank lines and compiler line):** `1,147`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1109,6 +1113,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 14
+
+</details>
+
+<details><summary><p lang="en"><b>Version 15 (2022, Tuesday, August 2nd at 4:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `What GitHub did` section
+- [x] Updated the `What I would do differently` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 15
 
 </details>
 
