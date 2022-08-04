@@ -50,67 +50,71 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 [05.0 - Follows during suspension](#Follows-during-suspension)
 
-[06.0 - Odd restrictions](#Odd-restrictions)
+[06.0 - Achievements during suspension](#Achievements-during-suspension)
 
-[07.0 - Spammy](#Spammy)
+[07.0 - Feedback during suspension](#Feedback-during-suspension)
 
-[08.0 - GitHub customer support](#GitHub-customer-support)
+[08.0 - Odd restrictions](#Odd-restrictions)
 
-[09.0 - Reddit post](#Reddit-post)
+[09.0 - Spammy](#Spammy)
 
-[10.0 - Negative impact](#Negative-impact)
+[10.0 - GitHub customer support](#GitHub-customer-support)
 
-[11.0 - Inability to use third party programs](#Inability-to-use-third-party-programs)
+[11.0 - Reddit post](#Reddit-post)
 
-[12.0 - Discussions locked](#Discussions-locked)
+[12.0 - Negative impact](#Negative-impact)
 
-[13.0 - Codespaces workaround](#Codespaces-workaround)
+[13.0 - Inability to use third party programs](#Inability-to-use-third-party-programs)
 
-[14.0 - Upload functionality diminishing](#Upload-functionality-diminishing)
+[14.0 - Discussions locked](#Discussions-locked)
 
-[15.0 - Attempting to continue normally](#Attempting-to-continue-normally)
+[15.0 - Codespaces workaround](#Codespaces-workaround)
 
-[16.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
+[16.0 - Upload functionality diminishing](#Upload-functionality-diminishing)
 
-> [16.1 - What GitHub did](#What-GitHub-did)
+[17.0 - Attempting to continue normally](#Attempting-to-continue-normally)
 
-> [16.2 - What I would do differently](#What-I-would-do-differently)
+[18.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
 
-> > [16.2.1 - Running an online service](#Running-an-online-service)
+> [18.1 - What GitHub did](#What-GitHub-did)
 
-> > > [16.2.1.1 - Avoiding GitHubs 2022 July 19th mistake](#Avoiding-GitHubs-2022-July-19th-mistake)
+> [18.2 - What I would do differently](#What-I-would-do-differently)
 
-> > > > [16.2.1.1.1 - Basic guidelines](#Basic-guidelines)
+> > [18.2.1 - Running an online service](#Running-an-online-service)
 
-> > > > [16.2.1.1.2 - Additional notes](#Additional-notes)
+> > > [18.2.1.1 - Avoiding GitHubs 2022 July 19th mistake](#Avoiding-GitHubs-2022-July-19th-mistake)
 
-[17.0 - GitHub pro](#GitHub-pro)
+> > > > [18.2.1.1.1 - Basic guidelines](#Basic-guidelines)
 
-[18.0 - Microsoft](#Microsoft)
+> > > > [18.2.1.1.2 - Additional notes](#Additional-notes)
 
-[19.0 - Conclusion](#Conclusion)
+[19.0 - GitHub pro](#GitHub-pro)
 
-> [19.1 - Aftermath](#Aftermath)
+[20.0 - Microsoft](#Microsoft)
 
-[20.0 - Sources](#Sources)
+[21.0 - Conclusion](#Conclusion)
 
-> [20.1 - Other people dealing with the same problem](#Other-people-dealing-with-the-same-problem)
+> [21.1 - Aftermath](#Aftermath)
 
-> [20.2 - Related problems](#Related-problems)
+[22.0 - Sources](#Sources)
 
-> [20.3 - Forum is moving](#Forum-is-moving)
+> [22.1 - Other people dealing with the same problem](#Other-people-dealing-with-the-same-problem)
 
-> [20.4 - Reddit post](#Reddit-post)
+> [22.2 - Related problems](#Related-problems)
 
-> [20.5 - The contact link](#The-contact-link)
+> [22.3 - Forum is moving](#Forum-is-moving)
 
-> [20.6 - GitHub email address (bot)](#GitHub-email-address-bot)
+> [22.4 - Reddit post](#Reddit-post)
 
-[21.0 - File info](#File-info)
+> [22.5 - The contact link](#The-contact-link)
 
-[22.0 - File history](#File-history)
+> [22.6 - GitHub email address (bot)](#GitHub-email-address-bot)
 
-[23.0 - Footer](#Footer)
+[23.0 - File info](#File-info)
+
+[24.0 - File history](#File-history)
+
+[25.0 - Footer](#Footer)
 
 ## Context
 
@@ -124,7 +128,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 4:03 pm PST on 2022, Tuesday, August 2nd, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 5:45 pm PST on 2022, Wednesday, August 3rd, I have received no response.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -440,7 +444,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 |---|---|
 | 2022, Monday, August 1st (day 14) | :heavy_check_mark: |
 | 2022, Tuesday, August 2nd (day 15) | :heavy_check_mark: |
-| 2022, Wednesday, August 3rd | TBD |
+| 2022, Wednesday, August 3rd (day 16) | :heavy_check_mark: |
 | 2022, Thursday, August 4th | TBD |
 | 2022, Friday, August 5th | TBD |
 | 2022, Saturday, August 6th | TBD |
@@ -665,6 +669,14 @@ Additionally, I have received followers while my account was blocked, which I fi
 
 On 2022, Sunday, July 31st, someone unfollowed me. I am not sure how they are able to access my profile to do this.
 
+## Achievements during suspension
+
+Upon logging on on 2022 August 3rd, I found that I had earned the `pair extraordinaire` achievement for a pull request that was opened today. Apparently, any contributions on a public repository automatically credits me as a collaborator, even if it is a fork of the project I have never gone to before. I find it odd that I am earning achievements during the suspension.
+
+## Feedback during suspension
+
+When configuring GitHub actions (as of 2022 August 2nd and onward) I am asked for feedback on how to make actions better. Normally, I respond to these, but I decided not to, regarding the flag, and the lack of response (they likely don't listen to the feedback anyway, judging on how long I have gone without any response)
+
 ## Odd restrictions
 
 I am restricted from searching repository source code by language while logged in, but if I log out/go into private browsing mode, it works just fine.
@@ -831,9 +843,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (2022, Tuesday, August 2nd at 4:03 pm PST)`
+**File version:** `16 (2022, Wednesday, August 3rd at 5:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,147`
+**Line count (including blank lines and compiler line):** `1,177`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1130,6 +1142,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 15
+
+</details>
+
+<details><summary><p lang="en"><b>Version 16 (2022, Wednesday, August 3rd at 5:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Added the `Achievements during suspension` section
+- [x] Added the `feedback during suspension` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 16
 
 </details>
 
