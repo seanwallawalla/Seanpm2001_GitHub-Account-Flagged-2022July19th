@@ -74,47 +74,49 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 [17.0 - Attempting to continue normally](#Attempting-to-continue-normally)
 
-[18.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
+[18.0 - Finally, a response](#Finally-a-response)
 
-> [18.1 - What GitHub did](#What-GitHub-did)
+[19.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
 
-> [18.2 - What I would do differently](#What-I-would-do-differently)
+> [19.1 - What GitHub did](#What-GitHub-did)
 
-> > [18.2.1 - Running an online service](#Running-an-online-service)
+> [19.2 - What I would do differently](#What-I-would-do-differently)
 
-> > > [18.2.1.1 - Avoiding GitHubs 2022 July 19th mistake](#Avoiding-GitHubs-2022-July-19th-mistake)
+> > [19.2.1 - Running an online service](#Running-an-online-service)
 
-> > > > [18.2.1.1.1 - Basic guidelines](#Basic-guidelines)
+> > > [19.2.1.1 - Avoiding GitHubs 2022 July 19th mistake](#Avoiding-GitHubs-2022-July-19th-mistake)
 
-> > > > [18.2.1.1.2 - Additional notes](#Additional-notes)
+> > > > [19.2.1.1.1 - Basic guidelines](#Basic-guidelines)
 
-[19.0 - GitHub pro](#GitHub-pro)
+> > > > [19.2.1.1.2 - Additional notes](#Additional-notes)
 
-[20.0 - Microsoft](#Microsoft)
+[20.0 - GitHub pro](#GitHub-pro)
 
-[21.0 - Conclusion](#Conclusion)
+[21.0 - Microsoft](#Microsoft)
 
-> [21.1 - Aftermath](#Aftermath)
+[22.0 - Conclusion](#Conclusion)
 
-[22.0 - Sources](#Sources)
+> [22.1 - Aftermath](#Aftermath)
 
-> [22.1 - Other people dealing with the same problem](#Other-people-dealing-with-the-same-problem)
+[23.0 - Sources](#Sources)
 
-> [22.2 - Related problems](#Related-problems)
+> [23.1 - Other people dealing with the same problem](#Other-people-dealing-with-the-same-problem)
 
-> [22.3 - Forum is moving](#Forum-is-moving)
+> [23.2 - Related problems](#Related-problems)
 
-> [22.4 - Reddit post](#Reddit-post)
+> [23.3 - Forum is moving](#Forum-is-moving)
 
-> [22.5 - The contact link](#The-contact-link)
+> [23.4 - Reddit post](#Reddit-post)
 
-> [22.6 - GitHub email address (bot)](#GitHub-email-address-bot)
+> [23.5 - The contact link](#The-contact-link)
 
-[23.0 - File info](#File-info)
+> [23.6 - GitHub email address (bot)](#GitHub-email-address-bot)
 
-[24.0 - File history](#File-history)
+[24.0 - File info](#File-info)
 
-[25.0 - Footer](#Footer)
+[25.0 - File history](#File-history)
+
+[26.0 - Footer](#Footer)
 
 ## Context
 
@@ -128,7 +130,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 </details>
 
-On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th, but as of 5:45 pm PST on 2022, Wednesday, August 3rd, I have received no response.
+On 2022, Tuesday, July 19th, upon starting my computer, I found that my [main account](https://github.com/seanpm2001/) had been flagged. It retained functionality, except for images not rendering (but none of the files being corrupted) and my entire account being hidden from public view. I have sent a repeal on 2022, July 19th. I did not receive a response until 2022, Thursday, August 4th at 12:26 am. The suspension was reinstated, and now I have to delete all my organizations before I can review it again, this is going to take a while, then the review is going to take time too.
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 1)</b></p></summary>
 
@@ -148,7 +150,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Monday, August 1st` _(14 days, or 2 weeks, 0 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 4th` _(17 days, or 2 weeks, 3 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -445,7 +447,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Monday, August 1st (day 14) | :heavy_check_mark: |
 | 2022, Tuesday, August 2nd (day 15) | :heavy_check_mark: |
 | 2022, Wednesday, August 3rd (day 16) | :heavy_check_mark: |
-| 2022, Thursday, August 4th | TBD |
+| 2022, Thursday, August 4th (day 17) | :heavy_check_mark: |
 | 2022, Friday, August 5th | TBD |
 | 2022, Saturday, August 6th | TBD |
 | 2022, Sunday, August 7th | TBD |
@@ -731,6 +733,14 @@ Starting on 2022 July 26th, drag and drop upload functionality has a new flaw, i
 
 Despite the account not being visible publicly, and several things being broken, I have continued to work somewhat normally. I can't let it derail all my progress. During the first 3 days of the flag, I did image file uploads in full, but as of 2022 July 22nd, I have finally made the decision to stop Git-image part A work, but still do Git-image part B work. I have also been rethinking how I will operate after this is over.
 
+## Finally, a response
+
+On 2022, Thursday, August 4th at 12:26 am, I finally received a response from GitHub support, reinstating the suspension until I delete all of my organizations. This is very very hard on me. It is a huge chunk of my life gone (500-2000+ hours) and it feels like they will bully me into getting rid of other work too.
+
+Despite the issue not being my Git-image part A work, I am still not going to resume the project. I really don't believe that I was domain squatting, but I can't go against them.
+
+I plan on reinstating all organizations on my private server once I get it running.
+
 ## What was done and what should have been done
 
 ### What GitHub did
@@ -843,9 +853,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2022, Wednesday, August 3rd at 5:45 pm PST)`
+**File version:** `17 (2022, Thursday, August 4th a 8:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,177`
+**Line count (including blank lines and compiler line):** `1,204`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1160,6 +1170,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><p lang="en"><b>Version 17 (2022, Thursday, August 4th at 8:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Added the `Finally, a response` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 17
 
 </details>
 
