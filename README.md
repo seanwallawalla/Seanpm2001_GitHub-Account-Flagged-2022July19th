@@ -76,7 +76,9 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 [18.0 - Finally, a response](#Finally-a-response)
 
-> [18.1 - Update 1](#Update-1)
+> [18.1 - Update 1 (2022, Thursday, August 4th)](#Update-1)
+
+> [18.2 - Update 2 (2022, Friday, August 5th)](#Update-2)
 
 [19.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
 
@@ -451,7 +453,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Wednesday, August 3rd (day 16) | :heavy_check_mark: |
 | 2022, Thursday, August 4th (day 17) | :heavy_check_mark: |
 | 2022, Friday, August 5th (day 18) | :heavy_check_mark: |
-| 2022, Saturday, August 6th | TBD |
+| 2022, Saturday, August 6th (day 19) | :heavy_check_mark: |
 | 2022, Sunday, August 7th | TBD |
 | 2022, Monday, August 8th | TBD |
 | 2022, Tuesday, August 9th | TBD |
@@ -745,7 +747,7 @@ I plan on reinstating all organizations on my private server once I get it runni
 
 ### Update 1
 
-I am now stuck in a loop starting 2022, Friday August 4th. I was told in the response to delete my organizations:
+I am now stuck in a loop starting 2022, Thursday August 4th. I was told in the response to delete my organizations:
 
 ![/Email7_Redacted_HighCompression.png](/Seanpm2001_Flagged/2022/July19th/The_First_Response/Email7_Redacted_HighCompression.png)
 
@@ -762,6 +764,12 @@ Then a few hours later, I come back to find that they refused to do the one thin
 ![Ticket1731581_afterArchival_LightMode.png](/Seanpm2001_Flagged/2022/July19th/GitHub_Refusal/Email2_NoRedaction_HighCompression.png)
 
 I am completely stumped, what do I do?
+
+### Update 2
+
+On 2022, Friday, August 5th, I looked back into the organization pages, and found that the option to delete the organization wasn't græyed out now, so later in the night, I began deleting organizations. I have 2 backup plans to restore them in the future.
+
+I deleted 140 organizations (14% of my organizations) tonight, just the ones without forks. More work will be done to preserve the remaining 860 before I delete them, and it is going to take at least 1 week.
 
 ## What was done and what should have been done
 
@@ -875,9 +883,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2022, Friday, August 5th a 3:17 pm PST)`
+**File version:** `19 (2022, Saturday, August 6th a 6:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,243`
+**Line count (including blank lines and compiler line):** `1,268`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1222,10 +1230,27 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `context` section
 - [x] Updated the `days flagged` section
 - - [x] Updated the `2022 August` table
-- [x] Added the `Update 1` subsection to the `finally, a response1 section
+- [x] Added the `Update 1` subsection to the `finally, a response` section
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><p lang="en"><b>Version 19 (2022, Saturday, August 6th at 6:06 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Added the `Update 2` subsection to the `finally, a response` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 19
 
 </details>
 
