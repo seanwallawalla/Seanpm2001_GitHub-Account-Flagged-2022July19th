@@ -154,7 +154,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 4th` _(17 days, or 2 weeks, 3 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 7th` _(20 days, or 2 weeks, 6 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -454,7 +454,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Thursday, August 4th (day 17) | :heavy_check_mark: |
 | 2022, Friday, August 5th (day 18) | :heavy_check_mark: |
 | 2022, Saturday, August 6th (day 19) | :heavy_check_mark: |
-| 2022, Sunday, August 7th | TBD |
+| 2022, Sunday, August 7th (day 20) | :heavy_check_mark: |
 | 2022, Monday, August 8th | TBD |
 | 2022, Tuesday, August 9th | TBD |
 | 2022, Wednesday, August 10th | TBD |
@@ -771,6 +771,15 @@ On 2022, Friday, August 5th, I looked back into the organization pages, and foun
 
 I deleted 140 organizations (14% of my organizations) tonight, just the ones without forks. More work will be done to preserve the remaining 860 before I delete them, and it is going to take at least 1 week.
 
+Deletion log:
+
+| Date | # of Organizations deleted today | # of organizations deleted total | Percentage of total |  Total % |
+|---|---|---|---|---|
+| Day 1, 2022, Friday, August 5th | 140 | 140 | 14.0% | 14.0% |
+| Day 2, 2022, Saturday, August 6th | 80 | 220 | 08.0% | 22.0% |
+| Day 3, 2022, Sunday, August 7th | 60 | 280 | 06.0% | 28.0% |
+| Day 4, Coming soon | :x: | :x: | :x: | :x: |
+
 ## What was done and what should have been done
 
 ### What GitHub did
@@ -883,9 +892,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2022, Saturday, August 6th a 6:06 pm PST)`
+**File version:** `20 (2022, Sunday, August 7th at 5:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,268`
+**Line count (including blank lines and compiler line):** `1,294`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1251,6 +1260,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 19
+
+</details>
+
+<details><summary><p lang="en"><b>Version 20 (2022, Sunday, August 7th at 5:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `update 2` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 20
 
 </details>
 
