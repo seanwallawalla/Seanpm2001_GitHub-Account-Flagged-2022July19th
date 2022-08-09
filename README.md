@@ -154,7 +154,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 7th` _(20 days, or 2 weeks, 6 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 8th` _(21 days, or 3 weeks, 0 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -455,7 +455,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Friday, August 5th (day 18) | :heavy_check_mark: |
 | 2022, Saturday, August 6th (day 19) | :heavy_check_mark: |
 | 2022, Sunday, August 7th (day 20) | :heavy_check_mark: |
-| 2022, Monday, August 8th | TBD |
+| 2022, Monday, August 8th (day 21) | :heavy_check_mark: |
 | 2022, Tuesday, August 9th | TBD |
 | 2022, Wednesday, August 10th | TBD |
 | 2022, Thursday, August 11th | TBD |
@@ -778,7 +778,17 @@ Deletion log:
 | Day 1, 2022, Friday, August 5th | 140 | 140 | 14.0% | 14.0% |
 | Day 2, 2022, Saturday, August 6th | 80 | 220 | 08.0% | 22.0% |
 | Day 3, 2022, Sunday, August 7th | 60 | 280 | 06.0% | 28.0% |
-| Day 4, Coming soon | :x: | :x: | :x: | :x: |
+| Day 4, 2022, Monday, August 8th | 80 | 360 | 08.0% | 36.0% |
+| Day 5, Coming soon | :x: | :x: | :x: | :x: |
+| Day 6, Coming soon | :x: | :x: | :x: | :x: |
+| Day 7, Coming soon | :x: | :x: | :x: | :x: |
+| Day 8, Coming soon | :x: | :x: | :x: | :x: |
+| Day 9, Coming soon | :x: | :x: | :x: | :x: |
+| Day 10, Coming soon | :x: | :x: | :x: | :x: |
+| Day 11, Coming soon | :x: | :x: | :x: | :x: |
+| Day 12, Coming soon | :x: | :x: | :x: | :x: |
+
+On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
 
 ## What was done and what should have been done
 
@@ -892,9 +902,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2022, Sunday, August 7th at 5:12 pm PST)`
+**File version:** `21 (2022, Monday, August 8th at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,294`
+**Line count (including blank lines and compiler line):** `1,321`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1277,6 +1287,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><p lang="en"><b>Version 21 (2022, Monday, August 8th at 6:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `update 2` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 21
 
 </details>
 
