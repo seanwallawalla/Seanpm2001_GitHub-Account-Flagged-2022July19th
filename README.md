@@ -80,6 +80,8 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 > [18.2 - Update 2 (2022, Friday, August 5th)](#Update-2)
 
+> [18.3 - Survey](#Survey)
+
 [19.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
 
 > [19.1 - What GitHub did](#What-GitHub-did)
@@ -451,12 +453,12 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Monday, August 1st (day 14) | :heavy_check_mark: |
 | 2022, Tuesday, August 2nd (day 15) | :heavy_check_mark: |
 | 2022, Wednesday, August 3rd (day 16) | :heavy_check_mark: |
-| 2022, Thursday, August 4th (day 17) | :heavy_check_mark: |
+| 2022, Thursday, August 4th **(day 17)** | :heavy_check_mark: |
 | 2022, Friday, August 5th (day 18) | :heavy_check_mark: |
 | 2022, Saturday, August 6th (day 19) | :heavy_check_mark: |
 | 2022, Sunday, August 7th (day 20) | :heavy_check_mark: |
 | 2022, Monday, August 8th (day 21) | :heavy_check_mark: |
-| 2022, Tuesday, August 9th | TBD |
+| 2022, Tuesday, August 9th (day 22) | :heavy_check_mark: |
 | 2022, Wednesday, August 10th | TBD |
 | 2022, Thursday, August 11th | TBD |
 | 2022, Friday, August 12th | TBD |
@@ -773,22 +775,35 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 Deletion log:
 
-| Date | # of Organizations deleted today | # of organizations deleted total | Percentage of total |  Total % |
+| Date (yyyy/ww/mm/dd) | # of Organizations deleted today | # of organizations deleted total | Percentage of total (daily) |  Total % of organizations deleted |
 |---|---|---|---|---|
-| Day 1, 2022, Friday, August 5th | 140 | 140 | 14.0% | 14.0% |
-| Day 2, 2022, Saturday, August 6th | 80 | 220 | 08.0% | 22.0% |
-| Day 3, 2022, Sunday, August 7th | 60 | 280 | 06.0% | 28.0% |
-| Day 4, 2022, Monday, August 8th | 80 | 360 | 08.0% | 36.0% |
-| Day 5, Coming soon | :x: | :x: | :x: | :x: |
-| Day 6, Coming soon | :x: | :x: | :x: | :x: |
-| Day 7, Coming soon | :x: | :x: | :x: | :x: |
-| Day 8, Coming soon | :x: | :x: | :x: | :x: |
-| Day 9, Coming soon | :x: | :x: | :x: | :x: |
-| Day 10, Coming soon | :x: | :x: | :x: | :x: |
-| Day 11, Coming soon | :x: | :x: | :x: | :x: |
-| Day 12, Coming soon | :x: | :x: | :x: | :x: |
+| **Day 1:** _2022, Friday, August 5th_ | `140` | `140` | `14.0%` | `14.0%` |
+| **Day 2:** _2022, Saturday, August 6th_ | `80` | `220` | `08.0%` | `22.0%` |
+| **Day 3:** _2022, Sunday, August 7th_ | `60` | `280` | `06.0%` | `28.0%` |
+| **Day 4:** _2022, Monday, August 8th_ | `80` | `360` | `08.0%` | `36.0%` |
+| **Day 5:** _2022, Tuesday, August 9th_ | `80` | `440` | `08.0%` | `44.0%` |
+| **Day 6:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 7:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 8:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 9:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
+
+<!-- File info
+Table version: 5.0, day 5 (2022, Tuesday, August 9th at 5:03 pm PST)
+Type: Markdown document (*.md *.mkd *.mdown *.markdown)
+!-->
 
 On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
+
+### Survey
+
+| With remote content | Without remote content |
+|---|---|
+| ![/Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Remote/Screenshot%20from%202022-08-09%2017-21-10.png](Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Remote/Screenshot%20from%202022-08-09%2017-21-10.png) | ![/Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Plain/Screenshot%20from%202022-08-09%2017-20-52.png](Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Plain/Screenshot%20from%202022-08-09%2017-20-52.png)
+
+GitHub sent me a survey at 10:01 pm PST on 2022, Monday, August 8th. Since my issue isn't resolved yet, and I don't want to interfere with it, I chose not to answer this survey. It was stressful receiving an email from GitHub at night due to the ongoing issue.
 
 ## What was done and what should have been done
 
@@ -902,9 +917,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2022, Monday, August 8th at 6:20 pm PST)`
+**File version:** `22 (2022, Tuesday, August 9th at 5:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,321`
+**Line count (including blank lines and compiler line):** `1,354`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1304,6 +1319,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 21
+
+</details>
+
+<details><summary><p lang="en"><b>Version 22 (2022, Tuesday, August 9th at 5:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `update 2` section
+- [x] Added the `survey` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 22
 
 </details>
 
