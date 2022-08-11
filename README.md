@@ -156,7 +156,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 8th` _(21 days, or 3 weeks, 0 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 10th` _(23 days, or 3 weeks, 2 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -453,13 +453,13 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Monday, August 1st (day 14) | :heavy_check_mark: |
 | 2022, Tuesday, August 2nd (day 15) | :heavy_check_mark: |
 | 2022, Wednesday, August 3rd (day 16) | :heavy_check_mark: |
-| 2022, Thursday, August 4th **(day 17)** | :heavy_check_mark: |
+| 2022, Thursday, August 4th **(day 17, response received)** | :heavy_check_mark: |
 | 2022, Friday, August 5th (day 18) | :heavy_check_mark: |
 | 2022, Saturday, August 6th (day 19) | :heavy_check_mark: |
 | 2022, Sunday, August 7th (day 20) | :heavy_check_mark: |
 | 2022, Monday, August 8th (day 21) | :heavy_check_mark: |
 | 2022, Tuesday, August 9th (day 22) | :heavy_check_mark: |
-| 2022, Wednesday, August 10th | TBD |
+| 2022, Wednesday, August 10th (day 23) | :heavy_check_mark: |
 | 2022, Thursday, August 11th | TBD |
 | 2022, Friday, August 12th | TBD |
 | 2022, Saturday, August 13th | TBD |
@@ -782,7 +782,7 @@ Deletion log:
 | **Day 3:** _2022, Sunday, August 7th_ | `60` | `280` | `06.0%` | `28.0%` |
 | **Day 4:** _2022, Monday, August 8th_ | `80` | `360` | `08.0%` | `36.0%` |
 | **Day 5:** _2022, Tuesday, August 9th_ | `80` | `440` | `08.0%` | `44.0%` |
-| **Day 6:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 6:** _2022, Wednesday, August 10th_ | `81` | `521` | `08.1%` | `52.1%` |
 | **Day 7:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 8:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 9:** _Coming soon_ | :x: | :x: | :x: | :x: |
@@ -790,8 +790,12 @@ Deletion log:
 | **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
 
+<!-- Notes
+Day 6: I accidentally deleted 1 extra organization today.
+!-->
+
 <!-- File info
-Table version: 5.0, day 5 (2022, Tuesday, August 9th at 5:03 pm PST)
+Table version: 6.0, day 6 (2022, Wednesday, August 10th at 5:00 pm PST)
 Type: Markdown document (*.md *.mkd *.mdown *.markdown)
 !-->
 
@@ -917,9 +921,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2022, Tuesday, August 9th at 5:45 pm PST)`
+**File version:** `23 (2022, Wednesday, August 10th at 6:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,354`
+**Line count (including blank lines and compiler line):** `1,375`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1337,6 +1341,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 22
+
+</details>
+
+<details><summary><p lang="en"><b>Version 23 (2022, Wednesday, August 10th at 6:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `update 2` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 23
 
 </details>
 
