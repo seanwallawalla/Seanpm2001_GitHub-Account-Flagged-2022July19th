@@ -80,6 +80,8 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 > [18.2 - Update 2 (2022, Friday, August 5th)](#Update-2)
 
+> > [18.2.1 - Deletion log notes](#Deletion-log-notes)
+
 > [18.3 - Survey](#Survey)
 
 [19.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
@@ -156,7 +158,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 11th` _(24 days, or 3 weeks, 3 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 12th` _(25 days, or 3 weeks, 4 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -461,7 +463,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Tuesday, August 9th (day 22) | :heavy_check_mark: |
 | 2022, Wednesday, August 10th (day 23) | :heavy_check_mark: |
 | 2022, Thursday, August 11th (day 24) | :heavy_check_mark: |
-| 2022, Friday, August 12th | TBD |
+| 2022, Friday, August 12th (day 25) | :heavy_check_mark: |
 | 2022, Saturday, August 13th | TBD |
 | 2022, Sunday, August 14th | TBD |
 | 2022, Monday, August 15th | TBD |
@@ -650,6 +652,8 @@ I was advised to make a message via my alt account. I have been hesitant to do s
 
 I have plans for after my main account is unflagged, to fork important projects from my main account to my alt account, so that people won't lose all access when this happens. I have already started doing common forks from my alt account, but the main part requires my main account to be up and running first.
 
+I have been using my alt account on a daily basis to document the ongoing incident.
+
 ### Alt account discovery
 
 ![/Organization_Flags/Seanwallawalla-software/2022July19th/Banner/DarkMode/Seanwallawalla-Software_FlaggedBanner_DarkMode.png](/Organization_Flags/Seanwallawalla-software/2022July19th/Banner/DarkMode/Seanwallawalla-Software_FlaggedBanner_DarkMode.png)
@@ -661,6 +665,8 @@ It might be related to the flag on my main account, but my first and main GitHub
 | Screenshot 1 | Screenshot 2 |
 |---|---|
 | ![/Organization_Flags/Seanwallawalla-software/2022July19th/View/Seanwallawalla-Software_OrganizationFlagged_Screenshot1_LightMode_1080p.png](/Organization_Flags/Seanwallawalla-software/2022July19th/View/Seanwallawalla-Software_OrganizationFlagged_Screenshot1_LightMode_1080p.png) | ![/Organization_Flags/Seanwallawalla-software/2022July19th/View/Seanwallawalla-Software_OrganizationFlagged_Screenshot2_LightMode_1080p.png](/Organization_Flags/Seanwallawalla-software/2022July19th/View/Seanwallawalla-Software_OrganizationFlagged_Screenshot2_LightMode_1080p.png) | 
+
+As of 2022 August 9th, the organization has been deleted, and my alt account has returned to normal.
 
 ## Stress
 
@@ -676,6 +682,8 @@ Additionally, I have received followers while my account was blocked, which I fi
 | ![Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png) | ![/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png) |
 
 On 2022, Sunday, July 31st, someone unfollowed me. I am not sure how they are able to access my profile to do this.
+
+On 2022, Tuesday, August 9th, I randomly lost 2 followers.
 
 ## Achievements during suspension
 
@@ -698,6 +706,8 @@ I am restricted from searching repository source code by language while logged i
 Upon going to any of my issues or pull requests, I noticed that a label `Spammy` is applied to all my posts. This is additionally what it says:
 
 ![/Seanpm2001_Flagged/2022/July19th/Labels/Spammy/Cropped/PNG/SpammyUsermark_Cropped_2022July19th.png](/Seanpm2001_Flagged/2022/July19th/Labels/Spammy/Cropped/PNG/SpammyUsermark_Cropped_2022July19th.png)
+
+Since it turned out to be my organizations being the problem, I am hoping the `spammy` label doesn't end up being a second issue. I have absolutely no idea what could be considered spammy, my forking sessions (25x) don't feel spammy and don't break any rules. I have still been a bit hesistant with them, but have resumed normally.
 
 ## GitHub customer support
 
@@ -775,6 +785,8 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 Deletion log:
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table</b></p></summary>
+
 | Date (yyyy/ww/mm/dd) | # of Organizations deleted today | # of organizations deleted total | Percentage of total (daily) |  Total % of organizations deleted |
 |---|---|---|---|---|
 | **Day 1:** _2022, Friday, August 5th_ | `140` | `140` | `14.0%` | `14.0%` |
@@ -784,24 +796,46 @@ Deletion log:
 | **Day 5:** _2022, Tuesday, August 9th_ | `80` | `440` | `08.0%` | `44.0%` |
 | **Day 6:** _2022, Wednesday, August 10th_ | `81` | `521` | `08.1%` | `52.1%` |
 | **Day 7:** _2022, Thursday, August 11th_ | `79` | `600` | `07.9%` | `60.0%` |
-| **Day 8:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 8:** _2022, Friday, August 12th_ | `80` | `680` | `08.0%` | `68.0%` |
 | **Day 9:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
+
+</details>
 
 <!-- Notes
 Day 6: I accidentally deleted 1 extra organization today.
 !-->
 
 <!-- File info
-Table version: 7.0, day 7 (2022, Thursday, August 11th at 6:03 pm PST)
+Table version: 8.0, day 8 (2022, Friday, August 12th at 4:17 pm PST)
 Type: Markdown document (*.md *.mkd *.mdown *.markdown)
 !-->
+
+#### Deletion log notes
+
+**Day 1:** _The 140 organizations deleted today don't have in-depth screenshots, as the organizations were empty, and already had screenshot documentation of themselves._
+
+**Day 2:** _80 organizations were deleted today, in-depth screenshots started today as well._
+
+**Day 3:** _I had a difficult time today, and was only able to delete 60 organizations._
+
+**Day 4:** _I now plan to delete 80 organizations per day consistently until I finish deleting all of them._
+
+**Day 5:** _I continued with the plan of deleting 80 per day today. `seanpm2001-all` and `seanwallawalla-forks` were deleted, but still persist on my profile, despite the fact that any user (even me) that visits them gets a 404 error._
+
+**Day 6:** _I accidentally deleted 1 extra organization today._
+
+**Day 7:** _I deleted 79 organizations today, instead of 80, to even out yesterdays mistake. I will continue to delete organizations 80 at a time tomorrow._
+
+**Dya 8:** _I went back to deleting 80 organizations per day today. I expect to finish in 4 days. Today, I also have noted that my "what's left" screenshot contains an error (Firefox has been wrapping my username across a whole line of the list) it is possible to be fixed in the future with data and image manipulation._
 
 On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
 
 I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawalla)) on 2022 August 9th, removing the reference to `seanwallawalla-software` and changing the location to match my main account.
+
+As of 2022, Friday, August 12th at 6:20 pm, `seanpm2001-all` and `seanwallawalla-forks` are still persistent on my profile, despite being deleted over 72 hours ago, and any user visiting them (including myself) will just get a 404 error page sent to them.
 
 ### Survey
 
@@ -923,9 +957,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2022, Thursday, August 11th at 8:18 pm PST)`
+**File version:** `25 (2022, Friday, August 12th at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,394`
+**Line count (including blank lines and compiler line):** `1,451`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1377,6 +1411,29 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 24
+
+</details>
+
+<details><summary><p lang="en"><b>Version 25 (2022, Friday, August 12th at 6:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `usage of alt account` section
+- - [x] Updated the `alt account discovery` subsection
+- [x] Updated the `index` section
+- [x] Updated the `update 2` section
+- - [x] Added the `deletion log notes `subsection
+- [x] Updated the `follows during suspension` subsection
+- [x] Updated the `spammy` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 25
 
 </details>
 
