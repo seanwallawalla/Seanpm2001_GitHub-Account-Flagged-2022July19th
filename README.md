@@ -80,7 +80,7 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 > [18.2 - Update 2 (2022, Friday, August 5th)](#Update-2)
 
-> > [18.2.1 - Deletion log notes](#Deletion-log-notes)
+> > [18.2.1 - Seanpm2001 Organization deletion log 2022 August](#Seanpm2001-Organization-deletion-log-2022-August)
 
 > [18.3 - Survey](#Survey)
 
@@ -464,7 +464,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Wednesday, August 10th (day 23) | :heavy_check_mark: |
 | 2022, Thursday, August 11th (day 24) | :heavy_check_mark: |
 | 2022, Friday, August 12th (day 25) | :heavy_check_mark: |
-| 2022, Saturday, August 13th | TBD |
+| 2022, Saturday, August 13th (day 26) | :heavy_check_mark: |
 | 2022, Sunday, August 14th | TBD |
 | 2022, Monday, August 15th | TBD |
 | 2022, Tuesday, August 16th | TBD |
@@ -709,6 +709,8 @@ Upon going to any of my issues or pull requests, I noticed that a label `Spammy`
 
 Since it turned out to be my organizations being the problem, I am hoping the `spammy` label doesn't end up being a second issue. I have absolutely no idea what could be considered spammy, my forking sessions (25x) don't feel spammy and don't break any rules. I have still been a bit hesistant with them, but have resumed normally.
 
+On 2022, Saturday, August 13th, the `spammy` label disappeared from all of my issues and pull requests. The issues and pull requests still are not publicly viewable, however.
+
 ## GitHub customer support
 
 GitHub customer support has been exceedingly poor. The contact form is taking a very long time, I am not being told why I was flagged, I can't email GitHub (they just blocked my email address when I tried) the forum appears to be moving to GitHub discussions (which will just make it impossible for people with this problem to reach out) and I have not been able to interact with an actual person (not even a bot)
@@ -783,7 +785,14 @@ On 2022, Friday, August 5th, I looked back into the organization pages, and foun
 
 I deleted 140 organizations (14% of my organizations) tonight, just the ones without forks. More work will be done to preserve the remaining 860 before I delete them, and it is going to take at least 1 week.
 
-Deletion log:
+<!-- Table: seanpm2001 organization deletion log 2022 August !-->
+<!-- Start of table !-->
+
+***
+
+#### Seanpm2001 Organization deletion log 2022 August
+
+---
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table</b></p></summary>
 
@@ -797,23 +806,18 @@ Deletion log:
 | **Day 6:** _2022, Wednesday, August 10th_ | `81` | `521` | `08.1%` | `52.1%` |
 | **Day 7:** _2022, Thursday, August 11th_ | `79` | `600` | `07.9%` | `60.0%` |
 | **Day 8:** _2022, Friday, August 12th_ | `80` | `680` | `08.0%` | `68.0%` |
-| **Day 9:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 9:** _2022, Saturday, August 13th_ | `80` | `760` | `08.0%` | `76.0%` |
 | **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
 
-</details>
+***
 
-<!-- Notes
-Day 6: I accidentally deleted 1 extra organization today.
-!-->
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the deletion log notes for this table</b></p></summary>
 
-<!-- File info
-Table version: 8.0, day 8 (2022, Friday, August 12th at 4:17 pm PST)
-Type: Markdown document (*.md *.mkd *.mdown *.markdown)
-!-->
+**Deletion log notes:**
 
-#### Deletion log notes
+**Daily log:**
 
 **Day 1:** _The 140 organizations deleted today don't have in-depth screenshots, as the organizations were empty, and already had screenshot documentation of themselves._
 
@@ -829,13 +833,39 @@ Type: Markdown document (*.md *.mkd *.mdown *.markdown)
 
 **Day 7:** _I deleted 79 organizations today, instead of 80, to even out yesterdays mistake. I will continue to delete organizations 80 at a time tomorrow._
 
-**Dya 8:** _I went back to deleting 80 organizations per day today. I expect to finish in 4 days. Today, I also have noted that my "what's left" screenshot contains an error (Firefox has been wrapping my username across a whole line of the list) it is possible to be fixed in the future with data and image manipulation._
+**Day 8:** _I went back to deleting 80 organizations per day today. I expect to finish in 4 days. Today, I also have noted that my "what's left" screenshot contains an error (Firefox has been wrapping my username across a whole line of the list) it is possible to be fixed in the future with data and image manipulation._
+
+**Day 9:** _I suffered significant losses today, some of my most important organizations had to be deleted. There were some really special ones today._
+
+**Additional log:**
+
+The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Saturday, August 13th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 96 hours.
 
 On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
 
-I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawalla)) on 2022 August 9th, removing the reference to `seanwallawalla-software` and changing the location to match my main account.
+I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawalla/)) on 2022 August 9th, removing the reference to `seanwallawalla-software` and changing the location to match my main account.
 
-As of 2022, Friday, August 12th at 6:20 pm, `seanpm2001-all` and `seanwallawalla-forks` are still persistent on my profile, despite being deleted over 72 hours ago, and any user visiting them (including myself) will just get a 404 error page sent to them.
+</details>
+
+</details>
+
+***
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file info section for this table</b></p></summary>
+
+**File info**
+
+**Table version:** `9.0, day 9 (2022, Saturday, August 13th at 3:34 pm PST)`
+
+**Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+
+**Line count (including blank lines and compiler line):** `82`
+
+</details>
+
+***
+
+<!-- End of table !-->
 
 ### Survey
 
@@ -957,9 +987,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `25 (2022, Friday, August 12th at 6:20 pm PST)`
+**File version:** `26 (2022, Saturday, August 13th at 5:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,451`
+**Line count (including blank lines and compiler line):** `1,500`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1434,6 +1464,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 25
+
+</details>
+
+<details><summary><p lang="en"><b>Version 26 (2022, Saturday, August 13th at 5:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `spammy label` section
+- [x] Updated the `update 2` section
+- - [x] Renamed the `deletion log notes `subsection and embedded the V9 table
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 26
 
 </details>
 
