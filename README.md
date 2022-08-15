@@ -158,7 +158,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 12th` _(25 days, or 3 weeks, 4 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 14th` _(27 days, or 3 weeks, 6 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -465,7 +465,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Thursday, August 11th (day 24) | :heavy_check_mark: |
 | 2022, Friday, August 12th (day 25) | :heavy_check_mark: |
 | 2022, Saturday, August 13th (day 26) | :heavy_check_mark: |
-| 2022, Sunday, August 14th | TBD |
+| 2022, Sunday, August 14th (day 27) | :heavy_check_mark: |
 | 2022, Monday, August 15th | TBD |
 | 2022, Tuesday, August 16th | TBD |
 | 2022, Wednesday, August 17th | TBD |
@@ -711,6 +711,8 @@ Since it turned out to be my organizations being the problem, I am hoping the `s
 
 On 2022, Saturday, August 13th, the `spammy` label disappeared from all of my issues and pull requests. The issues and pull requests still are not publicly viewable, however.
 
+The removal of the spammy label is a good sign, as it means there likely won't be much further issue upon trying to get my account back. It also delegitimizes snarky comments made against me.
+
 ## GitHub customer support
 
 GitHub customer support has been exceedingly poor. The contact form is taking a very long time, I am not being told why I was flagged, I can't email GitHub (they just blocked my email address when I tried) the forum appears to be moving to GitHub discussions (which will just make it impossible for people with this problem to reach out) and I have not been able to interact with an actual person (not even a bot)
@@ -790,7 +792,7 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 ***
 
-#### Seanpm2001 Organization deletion log 2022 August
+#### Seanpm2001 Organizaion deletion log 2022 August
 
 ---
 
@@ -807,7 +809,7 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 | **Day 7:** _2022, Thursday, August 11th_ | `79` | `600` | `07.9%` | `60.0%` |
 | **Day 8:** _2022, Friday, August 12th_ | `80` | `680` | `08.0%` | `68.0%` |
 | **Day 9:** _2022, Saturday, August 13th_ | `80` | `760` | `08.0%` | `76.0%` |
-| **Day 10:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 10:** _2022, Sunday, August 14th_ | `80` | `840` | `08.0%` | `84.0%` |
 | **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
 | **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
 
@@ -837,9 +839,11 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 **Day 9:** _I suffered significant losses today, some of my most important organizations had to be deleted. There were some really special ones today._
 
+**Day 10:** _I finished deleting all non-SNU organizations today. My 'What's left' screenshot also contained no errors today, as the image wasn't wrapped due to how small the selection was._
+
 **Additional log:**
 
-The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Saturday, August 13th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 96 hours.
+The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Sunday, August 14th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 120 hours.
 
 On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
 
@@ -855,11 +859,11 @@ I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawal
 
 **File info**
 
-**Table version:** `9.0, day 9 (2022, Saturday, August 13th at 3:34 pm PST)`
+**Table version:** `10.0, day 10 (2022, Sunday, August 14th at 5:08 pm PST)`
 
 **Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `82`
+**Line count (including blank lines and compiler line):** `84`
 
 </details>
 
@@ -987,9 +991,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (2022, Saturday, August 13th at 5:48 pm PST)`
+**File version:** `27 (2022, Sunday, August 14th at 6:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,500`
+**Line count (including blank lines and compiler line):** `1,523`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1483,6 +1487,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 26
+
+</details>
+
+<details><summary><p lang="en"><b>Version 27 (2022, Sunday, August 14th at 6:14 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `spammy label` section
+- [x] Updated the `update 2` section
+- - [x] Renamed the `deletion log notes `subsection and embedded the V10 table
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 27
 
 </details>
 
