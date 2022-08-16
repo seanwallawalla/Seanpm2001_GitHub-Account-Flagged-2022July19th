@@ -158,7 +158,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 14th` _(27 days, or 3 weeks, 6 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Monday, August 15th` _(28 days, or 4 weeks, 0 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -466,7 +466,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Friday, August 12th (day 25) | :heavy_check_mark: |
 | 2022, Saturday, August 13th (day 26) | :heavy_check_mark: |
 | 2022, Sunday, August 14th (day 27) | :heavy_check_mark: |
-| 2022, Monday, August 15th | TBD |
+| 2022, Monday, August 15th (day 28) | :heavy_check_mark: |
 | 2022, Tuesday, August 16th | TBD |
 | 2022, Wednesday, August 17th | TBD |
 | 2022, Thursday, August 18th | TBD |
@@ -685,6 +685,8 @@ On 2022, Sunday, July 31st, someone unfollowed me. I am not sure how they are ab
 
 On 2022, Tuesday, August 9th, I randomly lost 2 followers.
 
+On 2022, Monday, August 15th, I lost 1 follower.
+
 ## Achievements during suspension
 
 Upon logging on on 2022 August 3rd, I found that I had earned the `pair extraordinaire` achievement for a pull request that was opened today. Apparently, any contributions on a public repository automatically credits me as a collaborator, even if it is a fork of the project I have never gone to before. I find it odd that I am earning achievements during the suspension.
@@ -796,6 +798,10 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 ---
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the entire table</b></p></summary>
+
+---
+
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this table</b></p></summary>
 
 | Date (yyyy/ww/mm/dd) | # of Organizations deleted today | # of organizations deleted total | Percentage of total (daily) |  Total % of organizations deleted |
@@ -810,7 +816,7 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 | **Day 8:** _2022, Friday, August 12th_ | `80` | `680` | `08.0%` | `68.0%` |
 | **Day 9:** _2022, Saturday, August 13th_ | `80` | `760` | `08.0%` | `76.0%` |
 | **Day 10:** _2022, Sunday, August 14th_ | `80` | `840` | `08.0%` | `84.0%` |
-| **Day 11:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 11:** _2022, Monday, August 15th_ | `80` | `920` | `08.0%` | `92.0%` |
 | **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
 
 ***
@@ -839,7 +845,9 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 **Day 9:** _I suffered significant losses today, some of my most important organizations had to be deleted. There were some really special ones today._
 
-**Day 10:** _I finished deleting all non-SNU organizations today. My 'What's left' screenshot also contained no errors today, as the image wasn't wrapped due to how small the selection was._
+**Day 10:** _I finished deleting all non-SNU organizations today. My 'What's left' screenshot also contained no errors today, as the image wasn't wrapped due to how small the selection was._ _Seanpm2001-Ubuntu was deleted today after several linked snaps were no longer available, thus they did not show up in the documentation. It is possible to recreate this data - 2022 August 14th_
+
+**Day 11:** _Only SNU organizations are left, and they all have the same icon. Tomorrow will be the last day of this project._
 
 **Additional log:**
 
@@ -859,11 +867,13 @@ I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawal
 
 **File info**
 
-**Table version:** `10.0, day 10 (2022, Sunday, August 14th at 5:08 pm PST)`
+**Table version:** `11.0, day 11 (2022, Monday, August 15th at 2:56 pm PST)`
 
 **Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `84`
+**Line count (including blank lines and compiler line):** `92`
+
+</details>
 
 </details>
 
@@ -991,9 +1001,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2022, Sunday, August 14th at 6:14 pm PST)`
+**File version:** `28 (2022, Monday, August 15th at 7:38 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,523`
+**Line count (including blank lines and compiler line):** `1,552`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1506,6 +1516,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 27
+
+</details>
+
+<details><summary><p lang="en"><b>Version 28 (2022, Monday, August 15th at 7:38 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `follows during suspension` section
+- [x] Updated the `update 2` section
+- - [x] Renamed the `deletion log notes `subsection and embedded the V11 table
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 28
 
 </details>
 
