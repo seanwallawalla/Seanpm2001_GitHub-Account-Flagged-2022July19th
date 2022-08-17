@@ -158,7 +158,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Monday, August 15th` _(28 days, or 4 weeks, 0 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Tuesday, August 16th` _(29 days, or 4 weeks, 1 day)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -467,7 +467,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Saturday, August 13th (day 26) | :heavy_check_mark: |
 | 2022, Sunday, August 14th (day 27) | :heavy_check_mark: |
 | 2022, Monday, August 15th (day 28) | :heavy_check_mark: |
-| 2022, Tuesday, August 16th | TBD |
+| 2022, Tuesday, August 16th (day 29) | :heavy_check_mark: |
 | 2022, Wednesday, August 17th | TBD |
 | 2022, Thursday, August 18th | TBD |
 | 2022, Friday, August 19th | TBD |
@@ -794,7 +794,7 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 ***
 
-#### Seanpm2001 Organizaion deletion log 2022 August
+# Seanpm2001 Organizaion deletion log 2022 August
 
 ---
 
@@ -817,7 +817,7 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 | **Day 9:** _2022, Saturday, August 13th_ | `80` | `760` | `08.0%` | `76.0%` |
 | **Day 10:** _2022, Sunday, August 14th_ | `80` | `840` | `08.0%` | `84.0%` |
 | **Day 11:** _2022, Monday, August 15th_ | `80` | `920` | `08.0%` | `92.0%` |
-| **Day 12:** _Coming soon_ | :x: | :x: | :x: | :x: |
+| **Day 12:** _2022, Tuesday, August 16th_ | `80` | `1,000` | `08.0%` | `100.0%` |
 
 ***
 
@@ -849,6 +849,8 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 **Day 11:** _Only SNU organizations are left, and they all have the same icon. Tomorrow will be the last day of this project._
 
+**Day 12:** _I deleted the last 80 organizations today, which were all SNU organizations. During the last 22 entries, GitHub was deleting organizations by the time I got back to my profile from going back 3 pages, normally, I would have to reload the page first. The project is now complete, and I am contemplating what to do next to try and get my account back. The organization list would be empty if `seanpm2001-all` and `seanwallawalla-forks` would have gone away, but they have persisted for 7 days now._
+
 **Additional log:**
 
 The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Sunday, August 14th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 120 hours.
@@ -856,6 +858,8 @@ The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 20
 On 2022 Monday, August 8th, I decided to set the amount of orgs deleted per day to 80 (8x8=64) so that I can have a consistent and measured reduction in just 8 days. I expect to finish on 2022, Tuesday, August 16th. If things don't go as planned, it may take longer.
 
 I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawalla/)) on 2022 August 9th, removing the reference to `seanwallawalla-software` and changing the location to match my main account.
+
+I began getting screenshots of the rendered markdown table on 2022, August 15th.
 
 </details>
 
@@ -867,11 +871,11 @@ I updated my second account ([`@seanwallawalla`](https://github.com/seanwallawal
 
 **File info**
 
-**Table version:** `11.0, day 11 (2022, Monday, August 15th at 2:56 pm PST)`
+**Table version:** `12.0, day 12 (2022, Tuesday, August 16th at 3:11 pm PST)`
 
 **Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `92`
+**Line count (including blank lines and compiler line):** `96`
 
 </details>
 
@@ -1001,9 +1005,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `28 (2022, Monday, August 15th at 7:38 pm PST)`
+**File version:** `29 (2022, Tuesday, August 16th at 7:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,552`
+**Line count (including blank lines and compiler line):** `1,574`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1535,6 +1539,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 28
+
+</details>
+
+<details><summary><p lang="en"><b>Version 29 (2022, Tuesday, August 16th at 7:44 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `update 2` section
+- - [x] Renamed the `deletion log notes `subsection and embedded the V12 table
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 29
 
 </details>
 
