@@ -84,6 +84,8 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 > [18.3 - Update 3 (2022, Wednesday, August 17th)](#Update-3)
 
+> > [18.3.1 - Appeal message 3 (2022, Friday, August 19th)](#Appeal-message-3)
+
 > [18.4 - Survey](#Survey)
 
 [19.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
@@ -160,7 +162,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Friday, August 19th` _(32 days, or 4 weeks, 4 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Saturday, August 20th` _(33 days, or 4 weeks, 5 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -472,8 +474,8 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Tuesday, August 16th (day 29) | :heavy_check_mark: |
 | 2022, Wednesday, August 17th (day 30) | :heavy_check_mark: |
 | 2022, Thursday, August 18th (day 31) | :heavy_check_mark: |
-| 2022, Friday, August 19th (day 32) | :heavy_check_mark: |
-| 2022, Saturday, August 20th | TBD |
+| 2022, Friday, August 19th **(day 32, third appeal sent)** | :heavy_check_mark: |
+| 2022, Saturday, August 20th (day 33) | :heavy_check_mark: |
 | 2022, Sunday, August 21st | TBD |
 | 2022, Monday, August 22nd | TBD |
 | 2022, Tuesday, August 23rd | TBD |
@@ -796,7 +798,7 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 ***
 
-#### Seanpm2001 Organizaion deletion log 2022 August
+#### Seanpm2001 Organization deletion log 2022 August
 
 ---
 
@@ -822,6 +824,8 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 | **Day 11:** _2022, Monday, August 15th_ | `80` | `920` | `08.0%` | `92.0%` |
 | **Day 12:** _2022, Tuesday, August 16th_ | `80` | `1,000` | `08.0%` | `100.0%` |
 | **Day 13:** _2022, Wednesday, August 17th_ | `0` | `1,000` | `0.0%` | `100.0%` |
+
+[`Table not loading, or want a different view, click/tap here for binary versions of this table`](/Graphics/GOI_Tables/Deletion/)
 
 ***
 
@@ -859,6 +863,12 @@ I deleted 140 organizations (14% of my organizations) tonight, just the ones wit
 
 **Day 13:** _The project was completed yesterday. No data is available to delete. Although, I now notice that the option to `switch to another account` is gone. `seanpm2001-all` and `seanwallawalla-forks` have still not gone away, they have persisted for 8 days now._
 
+**Day 14:** _No data for today, the `seanpm2001-all` and `seanwallawalla-forks` organizations have still not gone away, persisting for 9 days now. I worry it might interfere with my appeal._
+
+**Day 15:** _No data for today, the `seanpm2001-all` and `seanwallawalla-forks` organizations have still not gone away, persisting for 10 days now. I worry it might interfere with my appeal. I sent an appeal tonight._
+
+**Day 16:** _No data for today, although I updated the table to make some enhancements, and fix a spelling error in the title. The `seanpm2001-all` and `seanwallawalla-forks` organizations have still not gone away, persisting for 11 days now. I worry it might interfere with my appeal that was sent last night._
+
 **Additional log:**
 
 The organizations `Seanpm2001-all` and `seanwallawalla-forks` were deleted on 2022, Thursday, August 9th. As of 2022, Sunday, August 14th, they still appear on my profile, despite being completely deleted, with no way for me or anyone else to access them (you just get a 404 page) it has been over 120 hours.
@@ -881,11 +891,11 @@ Despite no data before 2022 August 5th, and after August 16th, I still really fe
 
 **File info**
 
-**Table version:** `13.0, day 13 (2022, Wednesday, August 17th at 2:27 pm PST)`
+**Table version:** `14.0, day 16 (2022, Saturday, August 20th at 4:52 pm PST)`
 
 **Type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `104`
+**Line count (including blank lines and compiler line):** `112`
 
 </details>
 
@@ -902,6 +912,18 @@ As of 2022, Tuesday, August 16th, I have deleted all of my GitHub organizations.
 I am now deciding on sending a 3rd appeal, I didn't feel like doing so yet today, I am still weighing my options, plus, I was really out of it today and likely couldn't handle the stress regarding sending an appeal. - 2022, Thursday, August 18th
 
 I plan to send an appeal request after I finish work for the day, so that there is minimal interruption if the response is overnight. I might forget, but I will try not to. - 2022, Friday, August 19th
+
+### Appeal message 3
+
+On the night of 2022, Friday, August 19th, I sent a 3rd appeal message:
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this image (appeal message 3)</b></p></summary>
+
+![/Seanpm2001_Flagged/2022/July19th/AppealMessage/2022.08.20/Redacted/PNG/GitHub_Suspension2022_Appeal3_Redacted.png](/Seanpm2001_Flagged/2022/July19th/AppealMessage/2022.08.20/Redacted/PNG/GitHub_Suspension2022_Appeal3_Redacted.png)
+
+</details>
+
+I have also noted that my work using the `@all-contributors` bot was wiped out due to the organizations being deleted, but the attributes now serve as additional proof that the organizations existed, and were used. Suddenly, all my time using this bot no longer feels like a waste. I have not yet received a response to my 3rd appeal yet. - 2022 August 20th
 
 ### Survey
 
@@ -1023,9 +1045,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `32 (2022, Friday, August 19th at 8:08 pm PST)`
+**File version:** `33 (2022, Saturday, August 20th at 5:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,645`
+**Line count (including blank lines and compiler line):** `1,686`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1628,6 +1650,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 32
+
+</details>
+
+<details><summary><p lang="en"><b>Version 33 (2022, Saturday, August 20th at 5:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the index
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `update 3` section
+- [x] Added the `Appeal message 3` section
+- [x] Updated the `Index`
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 33
 
 </details>
 
