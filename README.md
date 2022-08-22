@@ -162,7 +162,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Saturday, August 20th` _(33 days, or 4 weeks, 5 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Sunday, August 21st` _(34 days, or 4 weeks, 6 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -434,10 +434,10 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Saturday, July 16th | :x: |
 | 2022, Sunday, July 17th | :x: |
 | 2022, Monday, July 18th | :x: |
-| 2022, Tuesday, July 19th (day 1) | :heavy_check_mark: |
+| 2022, Tuesday, July 19th **(day 1, start of suspension, first appeal sent)** | :heavy_check_mark: |
 | 2022, Wednesday, July 20th (day 2) | :heavy_check_mark: |
 | 2022, Thursday, July 21st (day 3) | :heavy_check_mark: |
-| 2022, Friday, July 22nd (day 4) | :heavy_check_mark: |
+| 2022, Friday, July 22nd **(day 4, second appeal sent)** | :heavy_check_mark: |
 | 2022, Saturday, July 23rd (day 5) | :heavy_check_mark: |
 | 2022, Sunday, July 24th (day 6) | :heavy_check_mark: |
 | 2022, Monday, July 25th (day 7) | :heavy_check_mark: |
@@ -471,12 +471,12 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Saturday, August 13th (day 26) | :heavy_check_mark: |
 | 2022, Sunday, August 14th (day 27) | :heavy_check_mark: |
 | 2022, Monday, August 15th (day 28) | :heavy_check_mark: |
-| 2022, Tuesday, August 16th (day 29) | :heavy_check_mark: |
+| 2022, Tuesday, August 16th **(day 29, finished deleting all 1,000 organizations)** | :heavy_check_mark: |
 | 2022, Wednesday, August 17th (day 30) | :heavy_check_mark: |
 | 2022, Thursday, August 18th (day 31) | :heavy_check_mark: |
 | 2022, Friday, August 19th **(day 32, third appeal sent)** | :heavy_check_mark: |
 | 2022, Saturday, August 20th (day 33) | :heavy_check_mark: |
-| 2022, Sunday, August 21st | TBD |
+| 2022, Sunday, August 21st (day 34) | :heavy_check_mark: |
 | 2022, Monday, August 22nd | TBD |
 | 2022, Tuesday, August 23rd | TBD |
 | 2022, Wednesday, August 24th | TBD |
@@ -685,11 +685,13 @@ Additionally, I have received followers while my account was blocked, which I fi
 |---|---|
 | ![Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/483FollowersDuringSuspension.png) | ![/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png](/Seanpm2001_Flagged/2022/July19th/Follows_DuringSuspension/PNG/GainingAFollowerDuringSuspension.png) |
 
-On 2022, Sunday, July 31st, someone unfollowed me. I am not sure how they are able to access my profile to do this.
+On 2022, Sunday, July 31st, someone unfollowed me. I am not sure how they are able to access my profile to do this. I went from 484 to 483 followers.
 
-On 2022, Tuesday, August 9th, I randomly lost 2 followers.
+On 2022, Tuesday, August 9th, I randomly lost 2 followers. I went from 483 to 481 followers.
 
-On 2022, Monday, August 15th, I lost 1 follower.
+On 2022, Monday, August 15th, I lost 1 follower. I went from 481 to 480 followers.
+
+On 2022, Wednesday, August 17th, I lost 2 more followers, going from 480 to 478 followers.
 
 ## Achievements during suspension
 
@@ -923,7 +925,9 @@ On the night of 2022, Friday, August 19th, I sent a 3rd appeal message:
 
 </details>
 
-I have also noted that my work using the `@all-contributors` bot was wiped out due to the organizations being deleted, but the attributes now serve as additional proof that the organizations existed, and were used. Suddenly, all my time using this bot no longer feels like a waste. I have not yet received a response to my 3rd appeal yet. - 2022 August 20th
+I have also noted that my work using the `@all-contributors` bot was wiped out due to the organizations being deleted, but the attributes now serve as additional proof that the organizations existed, and were used. Suddenly, all my time using this bot no longer feels like a waste. I have not yet received a response to my 3rd appeal yet. - 2022, Saturday, August 20th
+
+No activity has occurred regarding the 3rd repeal, I am still waiting, and still continuing somewhat normally. For some reason, I don't feel entirely prepared to go public again. I should get over this pretty quickly. - 2022, Sunday, August 21st
 
 ### Survey
 
@@ -1045,9 +1049,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `33 (2022, Saturday, August 20th at 5:27 pm PST)`
+**File version:** `34 (2022, Sunday, August 21st at 6:42 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,686`
+**Line count (including blank lines and compiler line):** `1,708`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1669,6 +1673,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 33
+
+</details>
+
+<details><summary><p lang="en"><b>Version 34 (2022, Sunday, August 21st at 6:42 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `update 3` section
+- [x] Updated the `Follows during suspension` section
+- [x] Updated the `Index`
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 34
 
 </details>
 
