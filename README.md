@@ -86,6 +86,8 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 > > [18.3.1 - Appeal message 3 (2022, Friday, August 19th)](#Appeal-message-3)
 
+> [18.4 - Update 4 (2022, Saturday, August 20th - present)](#Update-4)
+
 > [18.4 - Survey](#Survey)
 
 [19.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
@@ -162,7 +164,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Monday, August 22nd` _(35 days, or 5 weeks, 0 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Tuesday, August 23rd` _(36 days, or 5 weeks, 1 day)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -478,7 +480,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Saturday, August 20th (day 33) | :heavy_check_mark: |
 | 2022, Sunday, August 21st (day 34) | :heavy_check_mark: |
 | 2022, Monday, August 22nd (day 35) | :heavy_check_mark: |
-| 2022, Tuesday, August 23rd | TBD |
+| 2022, Tuesday, August 23rd (day 36) | :heavy_check_mark: |
 | 2022, Wednesday, August 24th | TBD |
 | 2022, Thursday, August 25th | TBD |
 | 2022, Friday, August 26th | TBD |
@@ -925,11 +927,15 @@ On the night of 2022, Friday, August 19th, I sent a 3rd appeal message:
 
 </details>
 
+### Update 4
+
 I have also noted that my work using the `@all-contributors` bot was wiped out due to the organizations being deleted, but the attributes now serve as additional proof that the organizations existed, and were used. Suddenly, all my time using this bot no longer feels like a waste. I have not yet received a response to my 3rd appeal yet. - 2022, Saturday, August 20th
 
 No activity has occurred regarding the 3rd repeal, I am still waiting, and still continuing somewhat normally. For some reason, I don't feel entirely prepared to go public again. I should get over this pretty quickly. - 2022, Sunday, August 21st
 
 Still no response. I almost forgot to update this log today. - 2022, Monday, August 22nd
+
+I am still waiting for a response. The difficult question was raised yesterday on what I will do if I never get my account back. - 2022, Tuesday, August 23rd
 
 ### Survey
 
@@ -1051,9 +1057,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `35 (2022, Monday, August 22nd at 8:26 pm PST)`
+**File version:** `36 (2022, Tuesday, August 23rd at 7:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,726`
+**Line count (including blank lines and compiler line):** `1,749`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1709,6 +1715,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 35
+
+</details>
+
+<details><summary><p lang="en"><b>Version 36 (2022, Tuesday, August 23rd at 7:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `index` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Split off entries from the `Appeal 3` section into the `Update 4` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 36
 
 </details>
 
