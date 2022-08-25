@@ -1,0 +1,18 @@
+# Start of script
+# Sample KDE desktop entry
+[Desktop Entry]
+Type=Application
+Exec=your-app %u
+MimeType=application/x-your-mime-type;
+Icon=/Seanpm2001.jpeg
+X-DocPath=yourapp/index.html
+Terminal=false
+Name=Repository:Seanpm2001_GitHub-Account-Flagged-2022July19th
+GenericName=Seanpm2001_GitHub-Account-Flagged-2022July19th
+Comment=Information about my main GitHub account @seanpm2001 which was flagged on 2022 July 19th.
+Categories=Qt;KDE;
+# File info
+# File type: KDE desktop entry file (*.desktop)
+# File version: 1 (2022, Wednesday, August 24th at 6:23 pm PST)
+# Line count (including blank lines and compiler line): 19
+# End of script
