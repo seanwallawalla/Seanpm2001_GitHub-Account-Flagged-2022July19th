@@ -164,7 +164,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Tuesday, August 23rd` _(36 days, or 5 weeks, 1 day)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Wednesday, August 24th` _(37 days, or 5 weeks, 2 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -481,7 +481,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Sunday, August 21st (day 34) | :heavy_check_mark: |
 | 2022, Monday, August 22nd (day 35) | :heavy_check_mark: |
 | 2022, Tuesday, August 23rd (day 36) | :heavy_check_mark: |
-| 2022, Wednesday, August 24th | TBD |
+| 2022, Wednesday, August 24th (day 37) | :heavy_check_mark: |
 | 2022, Thursday, August 25th | TBD |
 | 2022, Friday, August 26th | TBD |
 | 2022, Saturday, August 27th | TBD |
@@ -937,11 +937,17 @@ Still no response. I almost forgot to update this log today. - 2022, Monday, Aug
 
 I am still waiting for a response. The difficult question was raised yesterday on what I will do if I never get my account back. - 2022, Tuesday, August 23rd
 
+I am in constant stress of the response coming in. I am also becoming more bummed about image files not rendering on my projects, as I learned something new in Markdown today, and I can't even test it on my main account (applying thumbnails to videos, and hovering over links to give hover text) on an unrelated note, I did some modernizations to the GitHub flag repository on my alt account. - 2022, Wednesday, August 24th
+
 ### Survey
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse this image table (survey messages with and without remote content)</b></p></summary>
 
 | With remote content | Without remote content |
 |---|---|
 | ![/Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Remote/Screenshot%20from%202022-08-09%2017-21-10.png](Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Remote/Screenshot%20from%202022-08-09%2017-21-10.png) | ![/Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Plain/Screenshot%20from%202022-08-09%2017-20-52.png](Seanpm2001_Flagged/2022/July19th/GitHub_Reinstatement_Survey/Plain/Screenshot%20from%202022-08-09%2017-20-52.png)
+
+</details>
 
 GitHub sent me a survey at 10:01 pm PST on 2022, Monday, August 8th. Since my issue isn't resolved yet, and I don't want to interfere with it, I chose not to answer this survey. It was stressful receiving an email from GitHub at night due to the ongoing issue.
 
@@ -1057,9 +1063,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `36 (2022, Tuesday, August 23rd at 7:26 pm PST)`
+**File version:** `37 (2022, Wednesday, August 24th at 6:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,749`
+**Line count (including blank lines and compiler line):** `1,773`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1732,6 +1738,24 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 36
+
+</details>
+
+<details><summary><p lang="en"><b>Version 37 (2022, Wednesday, August 24th at 6:35 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `index` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `Update 4` section
+- [x] Updated the `Survey` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 37
 
 </details>
 
