@@ -164,7 +164,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Wednesday, August 24th` _(37 days, or 5 weeks, 2 days)_
+**Current range:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 25th` _(38 days, or 5 weeks, 3 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -482,7 +482,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Monday, August 22nd (day 35) | :heavy_check_mark: |
 | 2022, Tuesday, August 23rd (day 36) | :heavy_check_mark: |
 | 2022, Wednesday, August 24th (day 37) | :heavy_check_mark: |
-| 2022, Thursday, August 25th | TBD |
+| 2022, Thursday, August 25th (day 38) | :heavy_check_mark: |
 | 2022, Friday, August 26th | TBD |
 | 2022, Saturday, August 27th | TBD |
 | 2022, Sunday, August 28th | TBD |
@@ -939,6 +939,8 @@ I am still waiting for a response. The difficult question was raised yesterday o
 
 I am in constant stress of the response coming in. I am also becoming more bummed about image files not rendering on my projects, as I learned something new in Markdown today, and I can't even test it on my main account (applying thumbnails to videos, and hovering over links to give hover text) on an unrelated note, I did some modernizations to the GitHub flag repository on my alt account. - 2022, Wednesday, August 24th
 
+I am still waiting for a response. - 2022, Thursday, August 25th
+
 ### Survey
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image table (survey messages with and without remote content)</b></p></summary>
@@ -1063,9 +1065,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `37 (2022, Wednesday, August 24th at 6:35 pm PST)`
+**File version:** `38 (2022, Thursday, August 25th at 8:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,773`
+**Line count (including blank lines and compiler line):** `1,792`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1756,6 +1758,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 37
+
+</details>
+
+<details><summary><p lang="en"><b>Version 38 (2022, Thursday, August 25th at 8:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `Update 4` section
+- [x] Updated the `Survey` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 38
 
 </details>
 
