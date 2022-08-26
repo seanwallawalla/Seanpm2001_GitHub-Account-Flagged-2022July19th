@@ -86,9 +86,11 @@ Information about my main GitHub account @seanpm2001 which was flagged on 2022 J
 
 > > [18.3.1 - Appeal message 3 (2022, Friday, August 19th)](#Appeal-message-3)
 
-> [18.4 - Update 4 (2022, Saturday, August 20th - present)](#Update-4)
+> [18.4 - Update 4 (2022, Saturday, August 20th - 2022, Thursday, August 25th)](#Update-4)
 
-> [18.4 - Survey](#Survey)
+> [18.5 - Account restored (2022, Friday, August 26th)](#Account-restored)
+
+> [18.6 - Survey](#Survey)
 
 [19.0 - What was done, and what should have been done](#What-was-done-and-what-should-have-been-done)
 
@@ -164,7 +166,7 @@ On 2022 July 22nd, I sent another appeal message, as the previous email I used w
 
 This is a set of tables for the days of this year where I was flagged, and when I wasn't flagged.
 
-**Current range:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 25th` _(38 days, or 5 weeks, 3 days)_
+**Total duration:** `2022, Tuesday, July 19th` **to** `2022, Thursday, August 25th` _(38 days, or 5 weeks, 3 days)_
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse all tables</b></p></summary>
 
@@ -483,7 +485,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Tuesday, August 23rd (day 36) | :heavy_check_mark: |
 | 2022, Wednesday, August 24th (day 37) | :heavy_check_mark: |
 | 2022, Thursday, August 25th (day 38) | :heavy_check_mark: |
-| 2022, Friday, August 26th | TBD |
+| 2022, Friday, August 26th **(day 39, account restored)** | :x: |
 | 2022, Saturday, August 27th | TBD |
 | 2022, Sunday, August 28th | TBD |
 | 2022, Monday, August 29th | TBD |
@@ -941,6 +943,10 @@ I am in constant stress of the response coming in. I am also becoming more bumme
 
 I am still waiting for a response. - 2022, Thursday, August 25th
 
+### Account restored
+
+My account was restored overnight on 2022, Friday, August 26th. I am really happy to have my account back. Unfortunately, I am now dealing with a new large problem: my brand new laptop had severe issues last night, the screen failed partially, there were several crashes, and the laptop had its first kernel panic (also being my first Linux kernel panic to date) I am working towards fixing this issue now, it appears to be a hardware issue after diagnostics, but I also feel OS virtualization also had a play in it. Everything is back to normal now. Thank you GitHub! - 2022, Friday, August 26th
+
 ### Survey
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image table (survey messages with and without remote content)</b></p></summary>
@@ -1017,11 +1023,19 @@ I have become openly critical of Microsoft and GitHub for the first time. This h
 
 ## Conclusion
 
-No conclusion is available, as this is still an ongoing issue.
+The account suspension lasted from 2022, Tuesday, July 19th to 2022, Friday, August 26th. I had a lot of stress, but things should return to normal soon.
 
 ### Aftermath
 
-Aftermath is unavailable, as this is still an ongoing issue.
+The account was restored overnight on 2022, Friday, August 26th, ending a 38 day struggle. Images render properly, all of my work is public, but all of my organizations are gone. I plan to recreate them on a local server of my own.
+
+There are 2 glitched organizations that persisted, so now this banner won't go away:
+
+![/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_LightMode.png](/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_LightMode.png)
+
+![/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_DarkTritonopiaMode.png](/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_DarkTritonopiaMode.png)
+
+![/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_DarkProtanopiaMode.png](/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_DarkProtanopiaMode.png)
 
 ## Sources
 
@@ -1065,9 +1079,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `38 (2022, Thursday, August 25th at 8:27 pm PST)`
+**File version:** `39 (2022, Friday, August 26th at 1:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,792`
+**Line count (including blank lines and compiler line):** `1,825`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1775,6 +1789,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 38
+
+</details>
+
+<details><summary><p lang="en"><b>Version 39 (2022, Friday, August 26th at 1:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the index
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Added the `Account restored` section
+- [x] Updated the `Aftermath` section
+- [x] Updated the `Conclusion` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 39
 
 </details>
 
