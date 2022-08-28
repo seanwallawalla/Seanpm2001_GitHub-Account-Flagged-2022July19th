@@ -486,7 +486,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Wednesday, August 24th (day 37) | :heavy_check_mark: |
 | 2022, Thursday, August 25th (day 38) | :heavy_check_mark: |
 | 2022, Friday, August 26th **(day 39, account restored)** | :x: |
-| 2022, Saturday, August 27th | TBD |
+| 2022, Saturday, August 27th | :x: |
 | 2022, Sunday, August 28th | TBD |
 | 2022, Monday, August 29th | TBD |
 | 2022, Tuesday, August 30th | TBD |
@@ -723,7 +723,7 @@ Since it turned out to be my organizations being the problem, I am hoping the `s
 
 On 2022, Saturday, August 13th, the `spammy` label disappeared from all of my issues and pull requests. The issues and pull requests still are not publicly viewable, however.
 
-The removal of the spammy label is a good sign, as it means there likely won't be much further issue upon trying to get my account back. It also delegitimizes snarky comments made against me.
+The removal of the spammy label is a good sign, as it means there likely won't be much further issue upon trying to get my account back.
 
 ## GitHub customer support
 
@@ -947,6 +947,8 @@ I am still waiting for a response. - 2022, Thursday, August 25th
 
 My account was restored overnight on 2022, Friday, August 26th. I am really happy to have my account back. Unfortunately, I am now dealing with a new large problem: my brand new laptop had severe issues last night, the screen failed partially, there were several crashes, and the laptop had its first kernel panic (also being my first Linux kernel panic to date) I am working towards fixing this issue now, it appears to be a hardware issue after diagnostics, but I also feel OS virtualization also had a play in it. Everything is back to normal now. Thank you GitHub! - 2022, Friday, August 26th
 
+My account was still up today, but I decided to update my documentation regarding the flag/suspension, as some changes needed to be made. - 2022, Saturday, August 27th
+
 ### Survey
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image table (survey messages with and without remote content)</b></p></summary>
@@ -1037,6 +1039,14 @@ There are 2 glitched organizations that persisted, so now this banner won't go a
 
 ![/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_DarkProtanopiaMode.png](/Seanpm2001_Flagged/2022/July19th/SeveralOrgsFlagged_Banner/SeveralOrgsFlagged_Banner_DarkProtanopiaMode.png)
 
+As of 2 hours after I found that my account has been restored, these banners also went away. Some glitchiness has been added to my account, such as:
+
+- The inability to search for source code within public, non-fork repositories created prior to the start of the suspension.
+
+- All of my project releases being converted from releases to just tags.
+
+I don't want to contact GitHub further, as it is too risky. I am now using my alt account to fork 6 repositories of mine per day, so that the next time this may happen, my important projects will still be discoverable from a reliable source.
+
 ## Sources
 
 ### Other people dealing with the same problem
@@ -1079,9 +1089,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `39 (2022, Friday, August 26th at 1:48 pm PST)`
+**File version:** `40 (2022, Saturday, August 27th at 7:22 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,825`
+**Line count (including blank lines and compiler line):** `1,854`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1808,6 +1818,25 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 39
+
+</details>
+
+<details><summary><p lang="en"><b>Version 40 (2022, Saturday, August 27th at 7:22 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the index
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `Account restored` section
+- [x] Updated the `Aftermath` section
+- [x] Updated the `Spammy` section to remove an unnecessary remark
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 40
 
 </details>
 
