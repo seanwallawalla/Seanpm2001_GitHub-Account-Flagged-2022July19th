@@ -487,7 +487,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Thursday, August 25th (day 38) | :heavy_check_mark: |
 | 2022, Friday, August 26th **(day 39, account restored)** | :x: |
 | 2022, Saturday, August 27th | :x: |
-| 2022, Sunday, August 28th | TBD |
+| 2022, Sunday, August 28th | :x: |
 | 2022, Monday, August 29th | TBD |
 | 2022, Tuesday, August 30th | TBD |
 | 2022, Wednesday, August 31st | TBD |
@@ -949,6 +949,8 @@ My account was restored overnight on 2022, Friday, August 26th. I am really happ
 
 My account was still up today, but I decided to update my documentation regarding the flag/suspension, as some changes needed to be made. - 2022, Saturday, August 27th
 
+My account stayed restored for a 3rd day, but I still updated this flag blog. I will try to stop updating it by 2022 September 1st. - 2022, Sunday, August 28th
+
 ### Survey
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image table (survey messages with and without remote content)</b></p></summary>
@@ -1045,7 +1047,9 @@ As of 2 hours after I found that my account has been restored, these banners als
 
 - All of my project releases being converted from releases to just tags.
 
-I don't want to contact GitHub further, as it is too risky. I am now using my alt account to fork 6 repositories of mine per day, so that the next time this may happen, my important projects will still be discoverable from a reliable source.
+I don't want to contact GitHub further, as it is too risky. I am now using my alt account to fork 6 repositories of mine per day, so that the next time this may happen, my important projects will still be discoverable from a reliable source. This process is expected to take at least 200 days until I am caught up, then only new projects will be forked.
+
+Traffic to my repositories has been extremely slow. Previously, right before the flag, activity was nearly as high as it has ever been. I am waiting for traffic to pick back up.
 
 ## Sources
 
@@ -1089,9 +1093,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (2022, Saturday, August 27th at 7:22 pm PST)`
+**File version:** `41 (2022, Sunday, August 28th at 8:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,854`
+**Line count (including blank lines and compiler line):** `1,875`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1837,6 +1841,23 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 40
+
+</details>
+
+<details><summary><p lang="en"><b>Version 41 (2022, Sunday, August 28th at 8:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `Account restored` section
+- [x] Updated the `Aftermath` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 41
 
 </details>
 
