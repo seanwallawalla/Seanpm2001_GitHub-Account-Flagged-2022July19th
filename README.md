@@ -488,7 +488,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Friday, August 26th **(day 39, account restored)** | :x: |
 | 2022, Saturday, August 27th | :x: |
 | 2022, Sunday, August 28th | :x: |
-| 2022, Monday, August 29th | TBD |
+| 2022, Monday, August 29th | :x: |
 | 2022, Tuesday, August 30th | TBD |
 | 2022, Wednesday, August 31st | TBD |
 
@@ -951,6 +951,8 @@ My account was still up today, but I decided to update my documentation regardin
 
 My account stayed restored for a 3rd day, but I still updated this flag blog. I will try to stop updating it by 2022 September 1st. - 2022, Sunday, August 28th
 
+My account stayed restored for a 4th day, but I still updated this blogpost. The final update for now will be on 2022, August 31st. - 2022, Monday, August 29th
+
 ### Survey
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image table (survey messages with and without remote content)</b></p></summary>
@@ -1093,9 +1095,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2022, Sunday, August 28th at 8:12 pm PST)`
+**File version:** `42 (2022, Monday, August 29th at 6:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,875`
+**Line count (including blank lines and compiler line):** `1,893`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1858,6 +1860,22 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 41
+
+</details>
+
+<details><summary><p lang="en"><b>Version 42 (2022, Monday, August 29th at 6:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `Account restored` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 42
 
 </details>
 
