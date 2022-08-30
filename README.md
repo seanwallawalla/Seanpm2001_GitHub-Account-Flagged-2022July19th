@@ -489,7 +489,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Saturday, August 27th | :x: |
 | 2022, Sunday, August 28th | :x: |
 | 2022, Monday, August 29th | :x: |
-| 2022, Tuesday, August 30th | TBD |
+| 2022, Tuesday, August 30th | :x: |
 | 2022, Wednesday, August 31st | TBD |
 
 </details>
@@ -953,6 +953,8 @@ My account stayed restored for a 3rd day, but I still updated this flag blog. I 
 
 My account stayed restored for a 4th day, but I still updated this blogpost. The final update for now will be on 2022, August 31st. - 2022, Monday, August 29th
 
+My account stayed restored for a 5th day, but I still updated this blogpost. The final daily update for now will be tomorrow (on 2022, August 31st) - 2022, Monday, August 30th
+
 ### Survey
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse this image table (survey messages with and without remote content)</b></p></summary>
@@ -1095,9 +1097,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2022, Monday, August 29th at 6:25 pm PST)`
+**File version:** `43 (2022, Tuesday, August 30th at 4:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,893`
+**Line count (including blank lines and compiler line):** `1,973`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1121,6 +1123,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V1.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V1.md)
+
 > Changes:
 
 - [x] Started the file
@@ -1132,6 +1136,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 2 (2022, Thursday, July 21st at 8:32 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V2.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V2.md)
 
 > Changes:
 
@@ -1148,31 +1154,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
-> Changes:
-
-- [x] Referenced several image files
-- [x] Updated the `context` section
-- [x] Updated the `usage of alt account` section
-- - [x] Added the `Alt account discovery` subsection
-- [x] Updated the `stress` section
-- [x] Added the `odd restrictions` section
-- [x] Updated the `GitHub customer support` section
-- [x] Added the `spammy` section
-- [x] Updated the `sources` section
-- - [x] Added the `Other people dealing with the same problem` subsection
-- - [x] Added the `related problems` subsection
-- - [x] Added the `forum is moving` subsection
-- - [x] Added the `contact link` subsection
-- - [x] Added the `GitHub email address (bot)` subsection
-- [x] Added the `file info` section
-- [x] Added the `file history` section
-- [ ] No other changes in version 3
-
-</details>
-
-<details><summary><p lang="en"><b>Version 3 (2022, Friday, July 22nd at 3:10 pm PST)</b></p></summary>
-
-**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V3.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V3.md)
 
 > Changes:
 
@@ -1200,6 +1182,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V4.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V4.md)
+
 > Changes:
 
 - [x] Referenced some new image files
@@ -1216,6 +1200,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V5.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V5.md)
+
 > Changes:
 
 - [x] Referenced some new image files
@@ -1231,6 +1217,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V6.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V6.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1244,6 +1232,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 7 (2022, Monday, July 25th at 5:00 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V7.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V7.md)
 
 > Changes:
 
@@ -1261,6 +1251,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V8.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V8.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1275,6 +1267,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 9 (2022, Wednesday, July 27th at 6:47 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V9.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V9.md)
 
 > Changes:
 
@@ -1293,6 +1287,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V10.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V10.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1306,6 +1302,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 11 (2022, Friday, July 29th at 1:58 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V11.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V11.md)
 
 > Changes:
 
@@ -1321,6 +1319,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V12.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V12.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1335,6 +1335,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 13 (2022, Sunday, July 31st at 4:00 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V13.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V13.md)
 
 > Changes:
 
@@ -1364,6 +1366,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V14.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V14.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1384,6 +1388,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V15.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V15.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1400,6 +1406,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 16 (2022, Wednesday, August 3rd at 5:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V16.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V16.md)
 
 > Changes:
 
@@ -1419,6 +1427,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V17.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V17.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1435,6 +1445,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 18 (2022, Friday, August 5th at 3:17 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V18.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V18.md)
 
 > Changes:
 
@@ -1453,6 +1465,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V19.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V19.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1469,6 +1483,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 20 (2022, Sunday, August 7th at 5:12 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V20.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V20.md)
 
 > Changes:
 
@@ -1487,6 +1503,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V21.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V21.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1503,6 +1521,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 22 (2022, Tuesday, August 9th at 5:45 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V22.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V22.md)
 
 > Changes:
 
@@ -1522,6 +1542,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V23.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V23.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1539,6 +1561,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V24.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V24.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1555,6 +1579,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 25 (2022, Friday, August 12th at 6:20 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V25.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V25.md)
 
 > Changes:
 
@@ -1579,6 +1605,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V26.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V26.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1597,6 +1625,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 27 (2022, Sunday, August 14th at 6:14 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V27.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V27.md)
 
 > Changes:
 
@@ -1617,6 +1647,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V28.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V28.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1636,6 +1668,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V29.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V29.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1653,6 +1687,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 30 (2022, Wednesday, August 17th at 5:44 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V30.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V30.md)
 
 > Changes:
 
@@ -1673,6 +1709,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V31.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V31.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1690,6 +1728,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V32.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V32.md)
+
 > Changes:
 
 - [x] Updated the index
@@ -1706,6 +1746,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 33 (2022, Saturday, August 20th at 5:27 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V33.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V33.md)
 
 > Changes:
 
@@ -1726,6 +1768,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V34.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V34.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1744,6 +1788,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V35.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V35.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1759,6 +1805,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 36 (2022, Tuesday, August 23rd at 7:26 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V36.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V36.md)
 
 > Changes:
 
@@ -1776,6 +1824,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 37 (2022, Wednesday, August 24th at 6:35 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V37.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V37.md)
 
 > Changes:
 
@@ -1795,6 +1845,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V38.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V38.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1811,6 +1863,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 <details><summary><p lang="en"><b>Version 39 (2022, Friday, August 26th at 1:48 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V39.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V39.md)
 
 > Changes:
 
@@ -1831,6 +1885,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V40.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V40.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1850,6 +1906,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V41.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V41.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1867,6 +1925,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 **This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
 
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V42.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V42.md)
+
 > Changes:
 
 - [x] Updated the `context` section
@@ -1876,6 +1936,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Updated the `file info` section
 - [x] Updated the `file history` section
 - [ ] No other changes in version 42
+
+</details>
+
+<details><summary><p lang="en"><b>Version 43 (2022, Tuesday, August 30th at 4:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V43.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V43.md)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `Account restored` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- - [x] Removed a duplicate entry (version 3)
+- - [x] Added a local link selector to all 43 entries (for both the seanwallawalla repository, and the seanpm2001 repository)
+- [ ] No other changes in version 43
 
 </details>
 
