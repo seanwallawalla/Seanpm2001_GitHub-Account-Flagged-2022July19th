@@ -490,7 +490,7 @@ This is a set of tables for the days of this year where I was flagged, and when 
 | 2022, Sunday, August 28th | :x: |
 | 2022, Monday, August 29th | :x: |
 | 2022, Tuesday, August 30th | :x: |
-| 2022, Wednesday, August 31st | TBD |
+| 2022, Wednesday, August 31st | :x: |
 
 </details>
 
@@ -953,7 +953,9 @@ My account stayed restored for a 3rd day, but I still updated this flag blog. I 
 
 My account stayed restored for a 4th day, but I still updated this blogpost. The final update for now will be on 2022, August 31st. - 2022, Monday, August 29th
 
-My account stayed restored for a 5th day, but I still updated this blogpost. The final daily update for now will be tomorrow (on 2022, August 31st) - 2022, Monday, August 30th
+My account stayed restored for a 5th day, but I still updated this blogpost. The final daily update for now will be tomorrow (on 2022, August 31st) - 2022, Tuesday, August 30th
+
+My account is still restored 6 days later. This is the last time I am going to update this blog post for a while. I will update it either on special occasions, or when new data is available. - 2022, Wednesday, August 31st
 
 ### Survey
 
@@ -1024,6 +1026,8 @@ These rules were made during my first flag/suspension from GitHub, which as of w
 ## GitHub pro
 
 It has been decided that when I get my account back, I will pay the $7.00/month ($84.00/year) for GitHub Pro. This way, I can get better support, and also have the `Pro` label.
+
+I am still in the process of getting GitHub pro. I am procrastinating on it. - 2022, Wednesday, August 31st
 
 ## Microsoft
 
@@ -1097,9 +1101,9 @@ On 2022, July 25th, I archived the questions I deemed important from the GitHub 
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `43 (2022, Tuesday, August 30th at 4:30 pm PST)`
+**File version:** `44 (2022, Wednesday, August 31st at 6:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,973`
+**Line count (including blank lines and compiler line):** `1,997`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1956,6 +1960,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - - [x] Removed a duplicate entry (version 3)
 - - [x] Added a local link selector to all 43 entries (for both the seanwallawalla repository, and the seanpm2001 repository)
 - [ ] No other changes in version 43
+
+</details>
+
+<details><summary><p lang="en"><b>Version 44 (2022, Wednesday, August 31st at 6:52 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanwallawalla`](https://github.com/seanwallawalla/)
+
+**View this version separately:** [`Seanwallawalla (local)`](/!README/OldVersions/English/USA/1-100/README_V44.md) | [`Seanpm2001/GitHub flag history (local)`](/2022/Seanpm2001_GitHub-Account-Flagged-2022July19th/!README/OldVersions/English/USA/1-100/README_V44.md)
+
+> Changes:
+
+- [x] Updated the `context` section
+- [x] Updated the `days flagged` section
+- - [x] Updated the `2022 August` table
+- [x] Updated the `Account restored` section
+- [x] Updated the `GitHub Pro` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- - [x] Added an entry for V44
+- [ ] No other changes in version 44
 
 </details>
 
